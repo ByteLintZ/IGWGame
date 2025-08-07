@@ -504,7 +504,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.1500267925502564,
+        "zoomFactor": 0.14513286445533222,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -524,23 +524,6 @@
           "x": 1140,
           "y": -589,
           "zOrder": 8,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 1824,
-          "keepRatio": true,
-          "layer": "",
-          "name": "NewPanelSprite",
-          "persistentUuid": "30238f4c-8b8e-4e46-be67-1adebee66f12",
-          "width": 2528,
-          "x": -640,
-          "y": -224,
-          "zOrder": 0,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -779,6 +762,40 @@
           "x": -608,
           "y": -642,
           "zOrder": 6,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 1504,
+          "keepRatio": true,
+          "layer": "",
+          "name": "NewPanelSprite",
+          "persistentUuid": "d257b0a1-74a0-42f6-ae6b-60539bb196e6",
+          "width": 2176,
+          "x": -512,
+          "y": -192,
+          "zOrder": 13,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 1504,
+          "keepRatio": true,
+          "layer": "",
+          "name": "NewPanelSprite",
+          "persistentUuid": "bf5c2f48-81f5-4a49-9f04-6d270d7bc6c9",
+          "width": 2176,
+          "x": 1568,
+          "y": -192,
+          "zOrder": 13,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -1109,10 +1126,10 @@
           "effects": [],
           "behaviors": [
             {
-              "canBeGrabbed": true,
               "name": "Platform",
-              "platformType": "NormalPlatform",
               "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
               "yGrabOffset": 0
             }
           ],
