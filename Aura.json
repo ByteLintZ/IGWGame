@@ -3034,7 +3034,7 @@
       "title": "",
       "v": 209,
       "uiSettings": {
-        "grid": true,
+        "grid": false,
         "gridType": "rectangular",
         "gridWidth": 32,
         "gridHeight": 32,
@@ -3042,8 +3042,8 @@
         "gridOffsetY": 0,
         "gridColor": 10401023,
         "gridAlpha": 0.8,
-        "snap": true,
-        "zoomFactor": 0.2912258866911163,
+        "snap": false,
+        "zoomFactor": 0.4633111824514056,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -3264,8 +3264,8 @@
           "name": "Top_Boundaries",
           "persistentUuid": "2f61d38c-ee1e-4702-af94-71692c3966bc",
           "width": 3660,
-          "x": -377,
-          "y": -228,
+          "x": -384,
+          "y": -224,
           "zOrder": 11,
           "numberProperties": [],
           "stringProperties": [],
@@ -3871,7 +3871,15 @@
           "width": 32,
           "variables": [],
           "effects": [],
-          "behaviors": []
+          "behaviors": [
+            {
+              "canBeGrabbed": false,
+              "name": "Platform",
+              "platformType": "NormalPlatform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "yGrabOffset": 0
+            }
+          ]
         },
         {
           "assetStoreId": "",
@@ -4677,6 +4685,26 @@
             }
           ],
           "parameters": []
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "ClampCamera"
+              },
+              "parameters": [
+                "",
+                "Left_Boundaries.X() + Left_Boundaries.Width()",
+                "Top_Boundaries.Y() + Top_Boundaries.Height()",
+                "Right_Boundaries.X()",
+                "Bottom_Boundaries.Y()",
+                "",
+                ""
+              ]
+            }
+          ]
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
@@ -8998,6 +9026,26 @@
             }
           ],
           "parameters": []
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "ClampCamera"
+              },
+              "parameters": [
+                "",
+                "Left_Boundaries.X() + Left_Boundaries.Width()",
+                "Top_Boundaries.Y() + Top_Boundaries.Height()",
+                "Right_Boundaries.X()",
+                "Bottom_Boundaries.Y()",
+                "",
+                ""
+              ]
+            }
+          ]
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
