@@ -398,8 +398,36 @@
       {
         "file": "assets/Tree3.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Tree3.png\"}",
         "name": "Tree 2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Tree.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tree.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Worlds/Desert/Objects/Plant/8b1ff861cb3fd1ee164ca6827cd60191eab38e00f87325bfc0790c799637c998_Tree.png",
+          "name": "Tree.png"
+        }
+      },
+      {
+        "file": "assets/Tree2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Tree",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/sekolah2.png4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "sekolah2.png4",
         "smoothed": false,
         "userAdded": false
       }
@@ -532,7 +560,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 0.14513286445533238,
+        "zoomFactor": 0.46331118245140324,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -549,8 +577,8 @@
           "name": "Transjakarta",
           "persistentUuid": "269d4393-07c3-40fc-bc03-965112c2548c",
           "width": 500,
-          "x": 1140,
-          "y": -589,
+          "x": 1196,
+          "y": -608,
           "zOrder": 8,
           "numberProperties": [],
           "stringProperties": [],
@@ -611,14 +639,14 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 672,
+          "height": 768,
           "keepRatio": true,
           "layer": "",
           "name": "Sekolah",
           "persistentUuid": "4833541d-e48e-4ce6-8adc-975eb1eb94c6",
-          "width": 608,
-          "x": -192,
-          "y": -832,
+          "width": 800,
+          "x": -384,
+          "y": -896,
           "zOrder": 5,
           "numberProperties": [],
           "stringProperties": [],
@@ -653,7 +681,7 @@
           "width": 512,
           "x": 416,
           "y": -640,
-          "zOrder": 6,
+          "zOrder": 8,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -670,7 +698,7 @@
           "width": 512,
           "x": 924,
           "y": -638,
-          "zOrder": 2,
+          "zOrder": 7,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -830,16 +858,85 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 320,
           "keepRatio": true,
           "layer": "",
           "name": "Tree_2",
-          "persistentUuid": "ef9f0f38-5cd2-4a4b-9239-4189d9f7c82b",
-          "width": 0,
-          "x": 2688,
-          "y": -896,
-          "zOrder": 14,
+          "persistentUuid": "dbf585e1-f6cc-4edf-a4eb-65fb819006f8",
+          "width": 224,
+          "x": 224,
+          "y": -640,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 320,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Tree_2",
+          "persistentUuid": "daced703-62ce-4645-934b-6ce4891e6961",
+          "width": 224,
+          "x": 800,
+          "y": -640,
+          "zOrder": 6,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 320,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Tree_2",
+          "persistentUuid": "47eeb26a-817d-48cf-8d78-5a25f1b76fce",
+          "width": 224,
+          "x": 992,
+          "y": -608,
+          "zOrder": 6,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 384,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Tree",
+          "persistentUuid": "a16ad715-93de-4eeb-be30-cdf2eb368f3a",
+          "width": 384,
+          "x": 288,
+          "y": -704,
+          "zOrder": 7,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 384,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Tree",
+          "persistentUuid": "fe1df211-dec1-4a05-a567-4e1f5e632bda",
+          "width": 384,
+          "x": 1280,
+          "y": -704,
+          "zOrder": 0,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -1119,7 +1216,7 @@
           "leftMargin": 0,
           "name": "Sekolah",
           "rightMargin": 0,
-          "texture": "sekolah2.png3",
+          "texture": "sekolah2.png4",
           "tiled": false,
           "topMargin": 0,
           "type": "PanelSpriteObject::PanelSprite",
@@ -1422,11 +1519,89 @@
               ]
             }
           ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "5719b63adfd0ab991b85c0f5ae89f4e0a61d2b265c35c58e55ac0bf3b59e5db0",
+          "name": "Tree",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "Tree",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tree",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 64,
+                            "y": 0
+                          },
+                          {
+                            "x": 64,
+                            "y": 53
+                          },
+                          {
+                            "x": 0,
+                            "y": 53
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
         "folderName": "__ROOT",
         "children": [
+          {
+            "folderName": "Bg",
+            "children": [
+              {
+                "objectName": "NewSprite3"
+              },
+              {
+                "objectName": "Tree"
+              },
+              {
+                "objectName": "Tree_2"
+              }
+            ]
+          },
+          {
+            "folderName": "Importants"
+          },
           {
             "folderName": "Boundaries",
             "children": [
@@ -1464,12 +1639,6 @@
           },
           {
             "objectName": "NewSprite2"
-          },
-          {
-            "objectName": "Tree_2"
-          },
-          {
-            "objectName": "NewSprite3"
           }
         ]
       },
