@@ -374,6 +374,34 @@
         "name": "NewTiledSprite",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "file": "assets/Tree 2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tree 2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Worlds/Summer/Plant/29fce73e30ba55318f8037138699302876a55e4f8a7c54a9d350ebcbaa24d3c1_Tree 2.png",
+          "name": "Tree 2.png"
+        }
+      },
+      {
+        "file": "AWN2.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"AWN2.png\",\"extension\":\".png\"}",
+        "name": "AWN2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Tree3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Tree 2",
+        "smoothed": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -495,7 +523,7 @@
       "title": "",
       "v": 209,
       "uiSettings": {
-        "grid": false,
+        "grid": true,
         "gridType": "rectangular",
         "gridWidth": 32,
         "gridHeight": 32,
@@ -503,8 +531,8 @@
         "gridOffsetY": 0,
         "gridColor": 10401023,
         "gridAlpha": 0.8,
-        "snap": false,
-        "zoomFactor": 0.14513286445533222,
+        "snap": true,
+        "zoomFactor": 0.14513286445533238,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -770,14 +798,14 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 1504,
+          "height": 1568,
           "keepRatio": true,
           "layer": "",
-          "name": "NewPanelSprite",
-          "persistentUuid": "d257b0a1-74a0-42f6-ae6b-60539bb196e6",
-          "width": 2176,
+          "name": "NewSprite3",
+          "persistentUuid": "466bffc4-4af8-47ab-a84b-7ff615fbeb82",
+          "width": 2304,
           "x": -512,
-          "y": -192,
+          "y": -160,
           "zOrder": 13,
           "numberProperties": [],
           "stringProperties": [],
@@ -787,15 +815,31 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 1504,
+          "height": 1568,
           "keepRatio": true,
           "layer": "",
-          "name": "NewPanelSprite",
-          "persistentUuid": "bf5c2f48-81f5-4a49-9f04-6d270d7bc6c9",
-          "width": 2176,
-          "x": 1568,
-          "y": -192,
+          "name": "NewSprite3",
+          "persistentUuid": "c3fdbe71-3a84-4101-9505-cc89742fd877",
+          "width": 2304,
+          "x": 1696,
+          "y": -160,
           "zOrder": 13,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Tree_2",
+          "persistentUuid": "ef9f0f38-5cd2-4a4b-9239-4189d9f7c82b",
+          "width": 0,
+          "x": 2688,
+          "y": -896,
+          "zOrder": 14,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -1025,22 +1069,6 @@
           "bottomMargin": 0,
           "height": 32,
           "leftMargin": 0,
-          "name": "NewPanelSprite",
-          "rightMargin": 0,
-          "texture": "AWN.png",
-          "tiled": false,
-          "topMargin": 0,
-          "type": "PanelSpriteObject::PanelSprite",
-          "width": 32,
-          "variables": [],
-          "effects": [],
-          "behaviors": []
-        },
-        {
-          "assetStoreId": "",
-          "bottomMargin": 0,
-          "height": 32,
-          "leftMargin": 0,
           "name": "Ondel_ondel",
           "rightMargin": 0,
           "texture": "ondel.png3",
@@ -1076,22 +1104,6 @@
           "name": "Gerobak",
           "rightMargin": 0,
           "texture": "gerobak.jpg2",
-          "tiled": false,
-          "topMargin": 0,
-          "type": "PanelSpriteObject::PanelSprite",
-          "width": 32,
-          "variables": [],
-          "effects": [],
-          "behaviors": []
-        },
-        {
-          "assetStoreId": "",
-          "bottomMargin": 0,
-          "height": 32,
-          "leftMargin": 0,
-          "name": "NewPanelSprite2",
-          "rightMargin": 0,
-          "texture": "sekolah.png",
           "tiled": false,
           "topMargin": 0,
           "type": "PanelSpriteObject::PanelSprite",
@@ -1288,6 +1300,128 @@
           "variables": [],
           "effects": [],
           "behaviors": []
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "b82ce55b1f54b63404485a57e3173f0b4d1e8eff4e1d1fc6c3cf3ce60c5e03e7",
+          "name": "Tree_2",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "Tree 2",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tree 2",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 32,
+                            "y": 0
+                          },
+                          {
+                            "x": 32,
+                            "y": 34
+                          },
+                          {
+                            "x": 0,
+                            "y": 34
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "NewSprite3",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "AWN2",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "AWN2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 36,
+                            "y": 114
+                          },
+                          {
+                            "x": 1764,
+                            "y": 114
+                          },
+                          {
+                            "x": 1764,
+                            "y": 1086
+                          },
+                          {
+                            "x": 36,
+                            "y": 1086
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
@@ -1314,16 +1448,10 @@
             "objectName": "Transjakarta"
           },
           {
-            "objectName": "NewPanelSprite"
-          },
-          {
             "objectName": "Ondel_ondel"
           },
           {
             "objectName": "KueCucur"
-          },
-          {
-            "objectName": "NewPanelSprite2"
           },
           {
             "objectName": "Gerobak"
@@ -1336,6 +1464,12 @@
           },
           {
             "objectName": "NewSprite2"
+          },
+          {
+            "objectName": "Tree_2"
+          },
+          {
+            "objectName": "NewSprite3"
           }
         ]
       },
