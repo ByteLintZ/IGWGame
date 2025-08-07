@@ -983,7 +983,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 0.4481978045410356,
+        "zoomFactor": 0.37971210019479323,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -3043,7 +3043,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 0.28172599320796055,
+        "zoomFactor": 0.26364576737708434,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -3162,8 +3162,8 @@
           "name": "NewSprite",
           "persistentUuid": "71e90a53-efcd-4e7e-94d4-ac00f0bc6869",
           "width": 512,
-          "x": 416,
-          "y": -640,
+          "x": 448,
+          "y": -672,
           "zOrder": 8,
           "numberProperties": [],
           "stringProperties": [],
