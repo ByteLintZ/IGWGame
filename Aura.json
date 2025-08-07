@@ -968,6 +968,22 @@
         "name": "Screenshot (2).png2",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "file": "ChatGPT Image Aug 7, 2025, 10_15_29 PM.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "ChatGPT Image Aug 7, 2025, 10_15_29 PM.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/ChatGPT Image Aug 7, 2025, 10_15_29 PM.png2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{},\"localFilePath\":\"assets/ChatGPT Image Aug 7, 2025, 10_15_29 PM.png2.png\"}",
+        "name": "ChatGPT Image Aug 7, 2025, 10_15_29 PM.png2",
+        "smoothed": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -1054,6 +1070,22 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "In",
+          "persistentUuid": "c884bc6f-29b0-4235-a984-f366480cb346",
+          "width": 0,
+          "x": 800,
+          "y": -128,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
         }
       ],
       "objects": [
@@ -1134,6 +1166,40 @@
             "characterSize": 120,
             "color": "231;231;231"
           }
+        },
+        {
+          "assetStoreId": "",
+          "name": "In",
+          "type": "PrimitiveDrawing::Drawer",
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "FlashTransitionPainter",
+              "type": "FlashTransitionPainter::FlashTransitionPainter",
+              "Progress": 0,
+              "Duration": 0,
+              "Type": "",
+              "Direction": "",
+              "MaxOpacity": 255
+            }
+          ],
+          "fillOpacity": 255,
+          "outlineSize": 1,
+          "outlineOpacity": 255,
+          "absoluteCoordinates": false,
+          "clearBetweenFrames": true,
+          "antialiasing": "none",
+          "fillColor": {
+            "r": 255,
+            "g": 255,
+            "b": 255
+          },
+          "outlineColor": {
+            "r": 0,
+            "g": 0,
+            "b": 0
+          }
         }
       ],
       "objectsFolderStructure": {
@@ -1147,6 +1213,9 @@
           },
           {
             "objectName": "Title"
+          },
+          {
+            "objectName": "In"
           }
         ]
       },
@@ -1248,6 +1317,10 @@
         {
           "name": "Effect",
           "type": "EffectCapability::EffectBehavior"
+        },
+        {
+          "name": "FlashTransitionPainter",
+          "type": "FlashTransitionPainter::FlashTransitionPainter"
         },
         {
           "name": "Flippable",
@@ -1532,6 +1605,38 @@
           "x": -192,
           "y": -128,
           "zOrder": 0,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "In",
+          "persistentUuid": "317877d1-5efe-47bd-af40-d59d4c59507b",
+          "width": 0,
+          "x": 800,
+          "y": -64,
+          "zOrder": 7,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Out",
+          "persistentUuid": "69f42870-d905-4842-9c3e-64aa3bdb0a60",
+          "width": 0,
+          "x": 864,
+          "y": -64,
+          "zOrder": 8,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -2760,6 +2865,74 @@
           "variables": [],
           "effects": [],
           "behaviors": []
+        },
+        {
+          "assetStoreId": "",
+          "name": "In",
+          "type": "PrimitiveDrawing::Drawer",
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "FlashTransitionPainter",
+              "type": "FlashTransitionPainter::FlashTransitionPainter",
+              "Progress": 0,
+              "Duration": 0,
+              "Type": "",
+              "Direction": "",
+              "MaxOpacity": 255
+            }
+          ],
+          "fillOpacity": 255,
+          "outlineSize": 1,
+          "outlineOpacity": 255,
+          "absoluteCoordinates": false,
+          "clearBetweenFrames": true,
+          "antialiasing": "none",
+          "fillColor": {
+            "r": 255,
+            "g": 255,
+            "b": 255
+          },
+          "outlineColor": {
+            "r": 0,
+            "g": 0,
+            "b": 0
+          }
+        },
+        {
+          "assetStoreId": "",
+          "name": "Out",
+          "type": "PrimitiveDrawing::Drawer",
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "FlashTransitionPainter",
+              "type": "FlashTransitionPainter::FlashTransitionPainter",
+              "Progress": 0,
+              "Duration": 0,
+              "Type": "",
+              "Direction": "",
+              "MaxOpacity": 255
+            }
+          ],
+          "fillOpacity": 255,
+          "outlineSize": 1,
+          "outlineOpacity": 255,
+          "absoluteCoordinates": false,
+          "clearBetweenFrames": true,
+          "antialiasing": "none",
+          "fillColor": {
+            "r": 255,
+            "g": 255,
+            "b": 255
+          },
+          "outlineColor": {
+            "r": 0,
+            "g": 0,
+            "b": 0
+          }
         }
       ],
       "objectsFolderStructure": {
@@ -2788,6 +2961,12 @@
           },
           {
             "objectName": "NewTiledSprite2"
+          },
+          {
+            "objectName": "In"
+          },
+          {
+            "objectName": "Out"
           }
         ]
       },
@@ -3057,6 +3236,10 @@
         {
           "name": "Effect",
           "type": "EffectCapability::EffectBehavior"
+        },
+        {
+          "name": "FlashTransitionPainter",
+          "type": "FlashTransitionPainter::FlashTransitionPainter"
         },
         {
           "name": "Flippable",
@@ -3953,11 +4136,11 @@
           "effects": [],
           "behaviors": [
             {
-              "canBeGrabbed": true,
               "isFolded": true,
               "name": "Platform",
-              "platformType": "NormalPlatform",
               "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
               "yGrabOffset": 0
             }
           ]
@@ -4637,6 +4820,74 @@
               ]
             }
           ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "In",
+          "type": "PrimitiveDrawing::Drawer",
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "FlashTransitionPainter",
+              "type": "FlashTransitionPainter::FlashTransitionPainter",
+              "Progress": 0,
+              "Duration": 0,
+              "Type": "",
+              "Direction": "",
+              "MaxOpacity": 255
+            }
+          ],
+          "fillOpacity": 255,
+          "outlineSize": 1,
+          "outlineOpacity": 255,
+          "absoluteCoordinates": false,
+          "clearBetweenFrames": true,
+          "antialiasing": "none",
+          "fillColor": {
+            "r": 255,
+            "g": 255,
+            "b": 255
+          },
+          "outlineColor": {
+            "r": 0,
+            "g": 0,
+            "b": 0
+          }
+        },
+        {
+          "assetStoreId": "",
+          "name": "Out",
+          "type": "PrimitiveDrawing::Drawer",
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "FlashTransitionPainter",
+              "type": "FlashTransitionPainter::FlashTransitionPainter",
+              "Progress": 0,
+              "Duration": 0,
+              "Type": "",
+              "Direction": "",
+              "MaxOpacity": 255
+            }
+          ],
+          "fillOpacity": 255,
+          "outlineSize": 1,
+          "outlineOpacity": 255,
+          "absoluteCoordinates": false,
+          "clearBetweenFrames": true,
+          "antialiasing": "none",
+          "fillColor": {
+            "r": 255,
+            "g": 255,
+            "b": 255
+          },
+          "outlineColor": {
+            "r": 0,
+            "g": 0,
+            "b": 0
+          }
         }
       ],
       "objectsFolderStructure": {
@@ -4711,6 +4962,12 @@
           },
           {
             "objectName": "Player"
+          },
+          {
+            "objectName": "In"
+          },
+          {
+            "objectName": "Out"
           }
         ]
       },
@@ -5267,6 +5524,10 @@
         {
           "name": "Effect",
           "type": "EffectCapability::EffectBehavior"
+        },
+        {
+          "name": "FlashTransitionPainter",
+          "type": "FlashTransitionPainter::FlashTransitionPainter"
         },
         {
           "name": "Flippable",
@@ -6945,6 +7206,74 @@
               ]
             }
           ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "In",
+          "type": "PrimitiveDrawing::Drawer",
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "FlashTransitionPainter",
+              "type": "FlashTransitionPainter::FlashTransitionPainter",
+              "Progress": 0,
+              "Duration": 0,
+              "Type": "",
+              "Direction": "",
+              "MaxOpacity": 255
+            }
+          ],
+          "fillOpacity": 255,
+          "outlineSize": 1,
+          "outlineOpacity": 255,
+          "absoluteCoordinates": false,
+          "clearBetweenFrames": true,
+          "antialiasing": "none",
+          "fillColor": {
+            "r": 255,
+            "g": 255,
+            "b": 255
+          },
+          "outlineColor": {
+            "r": 0,
+            "g": 0,
+            "b": 0
+          }
+        },
+        {
+          "assetStoreId": "",
+          "name": "Out",
+          "type": "PrimitiveDrawing::Drawer",
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "FlashTransitionPainter",
+              "type": "FlashTransitionPainter::FlashTransitionPainter",
+              "Progress": 0,
+              "Duration": 0,
+              "Type": "",
+              "Direction": "",
+              "MaxOpacity": 255
+            }
+          ],
+          "fillOpacity": 255,
+          "outlineSize": 1,
+          "outlineOpacity": 255,
+          "absoluteCoordinates": false,
+          "clearBetweenFrames": true,
+          "antialiasing": "none",
+          "fillColor": {
+            "r": 255,
+            "g": 255,
+            "b": 255
+          },
+          "outlineColor": {
+            "r": 0,
+            "g": 0,
+            "b": 0
+          }
         }
       ],
       "objectsFolderStructure": {
@@ -7028,6 +7357,12 @@
           },
           {
             "objectName": "Player"
+          },
+          {
+            "objectName": "In"
+          },
+          {
+            "objectName": "Out"
           }
         ]
       },
@@ -7472,6 +7807,10 @@
           "type": "EffectCapability::EffectBehavior"
         },
         {
+          "name": "FlashTransitionPainter",
+          "type": "FlashTransitionPainter::FlashTransitionPainter"
+        },
+        {
           "name": "Flippable",
           "type": "FlippableCapability::FlippableBehavior"
         },
@@ -7529,7 +7868,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 0.34375202416123807,
+        "zoomFactor": 0.5468750000000114,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -7692,13 +8031,13 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 608,
+          "height": 448,
           "keepRatio": true,
           "layer": "",
           "name": "Monas",
           "persistentUuid": "5b443f48-8f94-4e46-b68a-270bc3d441e6",
-          "width": 672,
-          "x": 896,
+          "width": 512,
+          "x": 352,
           "y": 32,
           "zOrder": 15,
           "numberProperties": [],
@@ -7715,8 +8054,8 @@
           "name": "Gerobak",
           "persistentUuid": "bb14f031-9209-47f2-b02c-2dc9acae6298",
           "width": 224,
-          "x": 537,
-          "y": 473,
+          "x": 864,
+          "y": 448,
           "zOrder": 16,
           "numberProperties": [],
           "stringProperties": [],
@@ -7769,6 +8108,55 @@
           "x": 2152,
           "y": 480,
           "zOrder": 14,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 160,
+          "keepRatio": true,
+          "layer": "",
+          "name": "GerobakAngkat",
+          "persistentUuid": "6386b2b2-2b84-4871-9d2f-c3e7c5cf90dd",
+          "width": 160,
+          "x": 640,
+          "y": 480,
+          "zOrder": 18,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "In",
+          "persistentUuid": "6f66a1a1-0a90-4797-baed-210534701e52",
+          "width": 0,
+          "x": 1120,
+          "y": 864,
+          "zOrder": 19,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Out",
+          "persistentUuid": "f1837b3c-2a13-429e-9191-d2417db10e87",
+          "width": 0,
+          "x": 1280,
+          "y": 864,
+          "zOrder": 20,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -8197,10 +8585,10 @@
           "effects": [],
           "behaviors": [
             {
-              "canBeGrabbed": false,
               "name": "Platform",
-              "platformType": "NormalPlatform",
               "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": false,
+              "platformType": "NormalPlatform",
               "yGrabOffset": 0
             }
           ]
@@ -8216,10 +8604,10 @@
           "effects": [],
           "behaviors": [
             {
-              "canBeGrabbed": false,
               "name": "Platform",
-              "platformType": "NormalPlatform",
               "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": false,
+              "platformType": "NormalPlatform",
               "yGrabOffset": 0
             }
           ]
@@ -9117,9 +9505,9 @@
           "bottomMargin": 0,
           "height": 32,
           "leftMargin": 0,
-          "name": "NewPanelSprite3",
+          "name": "GerobakAngkat",
           "rightMargin": 0,
-          "texture": "",
+          "texture": "ChatGPT Image Aug 7, 2025, 10_15_29 PM.png2",
           "tiled": false,
           "topMargin": 0,
           "type": "PanelSpriteObject::PanelSprite",
@@ -9127,6 +9515,74 @@
           "variables": [],
           "effects": [],
           "behaviors": []
+        },
+        {
+          "assetStoreId": "",
+          "name": "In",
+          "type": "PrimitiveDrawing::Drawer",
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "FlashTransitionPainter",
+              "type": "FlashTransitionPainter::FlashTransitionPainter",
+              "Progress": 0,
+              "Duration": 0,
+              "Type": "",
+              "Direction": "",
+              "MaxOpacity": 255
+            }
+          ],
+          "fillOpacity": 255,
+          "outlineSize": 1,
+          "outlineOpacity": 255,
+          "absoluteCoordinates": false,
+          "clearBetweenFrames": true,
+          "antialiasing": "none",
+          "fillColor": {
+            "r": 255,
+            "g": 255,
+            "b": 255
+          },
+          "outlineColor": {
+            "r": 0,
+            "g": 0,
+            "b": 0
+          }
+        },
+        {
+          "assetStoreId": "",
+          "name": "Out",
+          "type": "PrimitiveDrawing::Drawer",
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "FlashTransitionPainter",
+              "type": "FlashTransitionPainter::FlashTransitionPainter",
+              "Progress": 0,
+              "Duration": 0,
+              "Type": "",
+              "Direction": "",
+              "MaxOpacity": 255
+            }
+          ],
+          "fillOpacity": 255,
+          "outlineSize": 1,
+          "outlineOpacity": 255,
+          "absoluteCoordinates": false,
+          "clearBetweenFrames": true,
+          "antialiasing": "none",
+          "fillColor": {
+            "r": 255,
+            "g": 255,
+            "b": 255
+          },
+          "outlineColor": {
+            "r": 0,
+            "g": 0,
+            "b": 0
+          }
         }
       ],
       "objectsFolderStructure": {
@@ -9215,7 +9671,13 @@
             "objectName": "Monas"
           },
           {
-            "objectName": "NewPanelSprite3"
+            "objectName": "GerobakAngkat"
+          },
+          {
+            "objectName": "In"
+          },
+          {
+            "objectName": "Out"
           }
         ]
       },
@@ -9625,6 +10087,10 @@
         {
           "name": "Effect",
           "type": "EffectCapability::EffectBehavior"
+        },
+        {
+          "name": "FlashTransitionPainter",
+          "type": "FlashTransitionPainter::FlashTransitionPainter"
         },
         {
           "name": "Flippable",
