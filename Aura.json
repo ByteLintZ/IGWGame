@@ -1365,7 +1365,13 @@
     "folderName": "__ROOT"
   },
   "objectsGroups": [],
-  "variables": [],
+  "variables": [
+    {
+      "name": "Genders",
+      "type": "boolean",
+      "value": true
+    }
+  ],
   "layouts": [
     {
       "b": 209,
@@ -1387,7 +1393,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 0.5653158055126318,
+        "zoomFactor": 0.43357743047023806,
         "windowMask": false
       },
       "objectsGroups": [
@@ -2709,6 +2715,60 @@
               ]
             }
           ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "ButtonStates::ButtonFSM::IsClicked"
+              },
+              "parameters": [
+                "Boy3",
+                "ButtonFSM",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetBooleanVariable"
+              },
+              "parameters": [
+                "Genders",
+                "True",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "ButtonStates::ButtonFSM::IsClicked"
+              },
+              "parameters": [
+                "Girl3",
+                "ButtonFSM",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetBooleanVariable"
+              },
+              "parameters": [
+                "Genders",
+                "False",
+                ""
+              ]
+            }
+          ]
         }
       ],
       "layers": [
@@ -2840,7 +2900,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 0.281725993207957,
+        "zoomFactor": 0.4194339782759079,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -4529,12 +4589,150 @@
               ],
               "events": [
                 {
+                  "type": ""
+                }
+              ]
+            }
+          ],
+          "parameters": []
+        },
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "name": "Loading",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "LinearMovement::LinearMovement::SetSpeedX"
+                  },
+                  "parameters": [
+                    "NewSprite3",
+                    "LinearMovement",
+                    "=",
+                    "30",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Wait"
+                  },
+                  "parameters": [
+                    "1.2"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "LinearMovement::LinearMovement::SetSpeedX"
+                  },
+                  "parameters": [
+                    "NewSprite3",
+                    "LinearMovement",
+                    "=",
+                    "180",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Wait"
+                  },
+                  "parameters": [
+                    "2"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "LinearMovement::LinearMovement::SetSpeedX"
+                  },
+                  "parameters": [
+                    "NewSprite3",
+                    "LinearMovement",
+                    "=",
+                    "0",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "MettreX"
+                  },
+                  "parameters": [
+                    "NewSprite3",
+                    "+",
+                    "40"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Wait"
+                  },
+                  "parameters": [
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "LinearMovement::LinearMovement::SetSpeedX"
+                  },
+                  "parameters": [
+                    "NewSprite3",
+                    "LinearMovement",
+                    "=",
+                    "180",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Wait"
+                  },
+                  "parameters": [
+                    "1.6"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "LinearMovement::LinearMovement::SetSpeedX"
+                  },
+                  "parameters": [
+                    "NewSprite3",
+                    "LinearMovement",
+                    "=",
+                    "0",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Wait"
+                  },
+                  "parameters": [
+                    "1"
+                  ]
+                },
+                {
                   "type": {
                     "value": "Scene"
                   },
                   "parameters": [
                     "",
-                    "\"TurunTJ\"",
+                    "\"Monas\"",
                     ""
                   ]
                 }
@@ -4542,6 +4740,11 @@
             }
           ],
           "parameters": []
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": []
         }
       ],
       "layers": [
@@ -4669,11 +4872,17 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 0.7130377630690545,
+        "zoomFactor": 0.6455105703311613,
         "windowMask": false
       },
       "objectsGroups": [],
-      "variables": [],
+      "variables": [
+        {
+          "name": "Gender",
+          "type": "boolean",
+          "value": true
+        }
+      ],
       "instances": [
         {
           "angle": 0,
@@ -8129,10 +8338,37 @@
           ]
         },
         {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "ButtonStates::ButtonFSM::IsClicked"
+              },
+              "parameters": [
+                "Close",
+                "ButtonFSM",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "HideLayer"
+              },
+              "parameters": [
+                "",
+                "\"Scene awal\""
+              ]
+            }
+          ]
+        },
+        {
           "colorB": 228,
           "colorG": 110,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "Zones",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -8743,6 +8979,174 @@
               ]
             }
           ]
+        },
+        {
+          "colorB": 74,
+          "colorG": 228,
+          "colorR": 108,
+          "creationTime": 0,
+          "name": "Player",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
+            {
+              "colorB": 228,
+              "colorG": 176,
+              "colorR": 74,
+              "creationTime": 0,
+              "name": "Animation",
+              "source": "",
+              "type": "BuiltinCommonInstructions::Group",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "BooleanVariable"
+                      },
+                      "parameters": [
+                        "Genders",
+                        "=",
+                        ""
+                      ]
+                    }
+                  ],
+                  "actions": [],
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "PlatformerCharacterAnimator::PlatformerCharacterAnimator::SetIdleAnimationName"
+                          },
+                          "parameters": [
+                            "Player",
+                            "PlatformerCharacterAnimator",
+                            "\"IdleGirl\"",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "PlatformerCharacterAnimator::PlatformerCharacterAnimator::SetMoveAnimationName"
+                          },
+                          "parameters": [
+                            "Player",
+                            "PlatformerCharacterAnimator",
+                            "\"RunGirl\"",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "PlatformerCharacterAnimator::PlatformerCharacterAnimator::SetJumpAnimationName"
+                          },
+                          "parameters": [
+                            "Player",
+                            "PlatformerCharacterAnimator",
+                            "\"WProtoJump\"",
+                            ""
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "parameters": []
+            },
+            {
+              "colorB": 228,
+              "colorG": 176,
+              "colorR": 74,
+              "creationTime": 0,
+              "name": "Movement",
+              "source": "",
+              "type": "BuiltinCommonInstructions::Group",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "DepartScene"
+                      },
+                      "parameters": [
+                        ""
+                      ]
+                    }
+                  ],
+                  "actions": []
+                }
+              ],
+              "parameters": []
+            },
+            {
+              "colorB": 228,
+              "colorG": 176,
+              "colorR": 74,
+              "creationTime": 0,
+              "name": "Power Up",
+              "source": "",
+              "type": "BuiltinCommonInstructions::Group",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "NumberVariable"
+                      },
+                      "parameters": [
+                        "",
+                        ">=",
+                        ""
+                      ]
+                    }
+                  ],
+                  "actions": [],
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "KeyFromTextPressed"
+                          },
+                          "parameters": [
+                            "",
+                            "\"u\""
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "SetNumberVariable"
+                          },
+                          "parameters": [
+                            "",
+                            "=",
+                            "0"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "parameters": []
+            }
+          ],
+          "parameters": []
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": []
         }
       ],
       "layers": [
@@ -8982,7 +9386,7 @@
           "isLocked": false,
           "name": "Pause",
           "renderingType": "",
-          "visibility": true,
+          "visibility": false,
           "cameras": [],
           "effects": [
             {
@@ -10407,18 +10811,6 @@
                 "color": "0;0;0"
               },
               "booleanParameters": {}
-            }
-          ],
-          "behaviors": [
-            {
-              "name": "ButtonFSM",
-              "type": "ButtonStates::ButtonFSM",
-              "ShouldCheckHovering": true,
-              "State": "Idle",
-              "TouchId": 0,
-              "TouchIsInside": false,
-              "MouseIsInside": false,
-              "Index": 2.0247e-320
             }
           ],
           "behaviors": [
@@ -12252,7 +12644,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 0.433577430470248,
+        "zoomFactor": 0.26364576737708634,
         "windowMask": false
       },
       "objectsGroups": [
@@ -13498,18 +13890,6 @@
                 "color": "0;0;0"
               },
               "booleanParameters": {}
-            }
-          ],
-          "behaviors": [
-            {
-              "name": "ButtonFSM",
-              "type": "ButtonStates::ButtonFSM",
-              "ShouldCheckHovering": true,
-              "State": "Idle",
-              "TouchId": 0,
-              "TouchIsInside": false,
-              "MouseIsInside": false,
-              "Index": 2.0247e-320
             }
           ],
           "behaviors": [
@@ -15929,7 +16309,7 @@
                 "",
                 "RILEKSASI - Instumen Musik BETAWI #6  No Copyright.mp3",
                 "yes",
-                "",
+                "20",
                 ""
               ]
             }
@@ -15964,35 +16344,46 @@
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
               "type": {
-                "value": "DepartScene"
+                "value": "CollisionNP"
               },
               "parameters": [
+                "Player",
+                "Entrance",
+                "",
+                "",
                 ""
+              ]
+            },
+            {
+              "type": {
+                "value": "KeyFromTextPressed"
+              },
+              "parameters": [
+                "",
+                "\"e\""
               ]
             }
           ],
           "actions": [
             {
               "type": {
-                "value": "PlayMusic"
+                "value": "Scene"
               },
               "parameters": [
                 "",
-                "RILEKSASI - Instumen Musik Lagu Daerah BETAWI 6 No Copyright.mp3",
-                "",
-                "20",
+                "\"DalemMonas\"",
                 ""
               ]
             }
           ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": []
         }
       ],
       "layers": [
@@ -16391,7 +16782,7 @@
           "isLocked": false,
           "name": "Pause",
           "renderingType": "",
-          "visibility": true,
+          "visibility": false,
           "cameras": [],
           "effects": [
             {
@@ -18982,10 +19373,10 @@
           "effects": [],
           "behaviors": [
             {
-              "canBeGrabbed": true,
               "name": "Platform",
-              "platformType": "NormalPlatform",
               "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
               "yGrabOffset": 0
             }
           ],
