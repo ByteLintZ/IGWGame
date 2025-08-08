@@ -1338,23 +1338,571 @@
         "userAdded": false
       },
       {
-        "file": "Free Backsound Jawa - Happy Javanese Backsound.mp3",
+        "file": "RILEKSASI - Instumen Musik BETAWI #6  No Copyright.mp3",
         "kind": "audio",
         "metadata": "",
-        "name": "Free Backsound Jawa - Happy Javanese Backsound.mp3",
+        "name": "RILEKSASI - Instumen Musik BETAWI #6  No Copyright.mp3",
         "preloadAsMusic": false,
         "preloadAsSound": false,
         "preloadInCache": false,
         "userAdded": false
       },
       {
-        "file": "RILEKSASI - Instumen Musik Lagu Daerah BETAWI 6 No Copyright.mp3",
+        "file": "RILEKSASI - Instumen Musik BETAWI #6  No Copyright2.mp3",
         "kind": "audio",
         "metadata": "",
-        "name": "RILEKSASI - Instumen Musik Lagu Daerah BETAWI 6 No Copyright.mp3",
+        "name": "RILEKSASI - Instumen Musik BETAWI #6  No Copyright2.mp3",
         "preloadAsMusic": false,
         "preloadAsSound": false,
         "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "bel-sekolah-153453.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "bel-sekolah-153453.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "Free-Sky-with-Clouds-Background-Pixel-Art8.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "Free-Sky-with-Clouds-Background-Pixel-Art8.jpg",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Free-Sky-with-Clouds-Background-Pixel-Art9.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "Free-Sky-with-Clouds-Background-Pixel-Art9.jpg",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Free-Sky-with-Clouds-Background-Pixel-Art9.jpg2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "Free-Sky-with-Clouds-Background-Pixel-Art9.jpg2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Free-Sky-with-Clouds-Background-Pixel-Art9.jpg3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "Free-Sky-with-Clouds-Background-Pixel-Art9.jpg3",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Free-Sky-with-Clouds-Background-Pixel-Art10.jpg",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"Free-Sky-with-Clouds-Background-Pixel-Art10.jpg\",\"extension\":\".png\",\"pskl\":{}}",
+        "name": "Free-Sky-with-Clouds-Background-Pixel-Art10.jpg",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewPanelSprite.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "NewPanelSprite",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "istockphoto-1267402977-170667a.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "istockphoto-1267402977-170667a.jpg",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewPanelSprite.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\NewPanelSprite.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite7",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite8",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite9.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite9",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite10.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite10",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/tile0008.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "tile0008",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/tile00019.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "tile00019",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/tile00020.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "tile00020",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/tile00021.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "tile00021",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "5.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "6.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "7.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "WProtoIdle.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "WProtoIdle.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/WProtoIdle.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "WProtoIdle",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/WProtoIdle2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "WProtoIdle2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/WProtoIdle3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "WProtoIdle3",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/WProtoIdle4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "WProtoIdle4",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Player.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Player",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Player2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Player2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Player3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Player3",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Player4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Player4",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "WProtoJump.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "WProtoJump.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/WProtoJump.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "WProtoJump",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/WProtoJump2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "WProtoJump2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/WProtoJump3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "WProtoJump3",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite5.png\"}",
+        "name": "NewSprite5",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite11.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite11",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite12.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite12.png\"}",
+        "name": "NewSprite12",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite13.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite13",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "PixelifySans-VariableFont_wght12.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "PixelifySans-VariableFont_wght12.ttf",
+        "userAdded": false
+      },
+      {
+        "file": "assets/Bush foreground.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Bush foreground.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Platformer Pack/Plant/dc11dc67c2107cdfeabfe2391f8f3b78a86e0274e3497cc9e8181cc6df4c2897_Bush foreground.png",
+          "name": "Bush foreground.png"
+        }
+      },
+      {
+        "file": "assets/Bush foreground2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Bush foreground",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "PixelifySans-VariableFont_wght13.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "PixelifySans-VariableFont_wght13.ttf",
+        "userAdded": false
+      },
+      {
+        "file": "8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "8.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "9.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "10.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Player5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Player5",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Player6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Player6",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Player7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Player7",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Player8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Player8",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "11.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "12.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "13.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Player9.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Player9",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Player10.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Player10",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Player11.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Player11",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Player12.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Player12",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Player13.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Player13",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Player14.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Player14",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Player15.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Player15",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Free-Sky-with-Clouds-Background-Pixel-Art9.jpg3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Free-Sky-with-Clouds-Background-Pixel-Art9.jpg3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/assets_Free-Sky-with-Clouds-Background-Pixel-Art9.jpg3.png2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "assets\\Free-Sky-with-Clouds-Background-Pixel-Art9.jpg3.png2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/assets_Free-Sky-with-Clouds-Background-Pixel-Art9.jpg3.png3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "assets\\Free-Sky-with-Clouds-Background-Pixel-Art9.jpg3.png3",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/assets_Free-Sky-with-Clouds-Background-Pixel-Art9.jpg3.png4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "assets\\Free-Sky-with-Clouds-Background-Pixel-Art9.jpg3.png4",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/assets_Free-Sky-with-Clouds-Background-Pixel-Art9.jpg3.png3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\assets_Free-Sky-with-Clouds-Background-Pixel-Art9.jpg3.png3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/assets_Free-Sky-with-Clouds-Background-Pixel-Art9.jpg3.png5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "assets\\Free-Sky-with-Clouds-Background-Pixel-Art9.jpg3.png5",
+        "smoothed": false,
         "userAdded": false
       }
     ],
@@ -1387,7 +1935,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 0.5653158055126318,
+        "zoomFactor": 0.3010461197182462,
         "windowMask": false
       },
       "objectsGroups": [
@@ -2679,33 +3227,6 @@
                 "Effect",
                 "\"Effect\"",
                 "no"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "DepartScene"
-              },
-              "parameters": [
-                ""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "PlayMusic"
-              },
-              "parameters": [
-                "",
-                "Free Backsound Jawa - Happy Javanese Backsound.mp3",
-                "",
-                "25",
-                ""
               ]
             }
           ]
@@ -4529,13 +5050,151 @@
               ],
               "events": [
                 {
-                  "type": {
-                    "value": "Scene"
-                  },
-                  "parameters": [
-                    "",
-                    "\"TurunTJ\"",
-                    ""
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "LinearMovement::LinearMovement::SetSpeedX"
+                      },
+                      "parameters": [
+                        "NewSprite3",
+                        "LinearMovement",
+                        "=",
+                        "30",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Wait"
+                      },
+                      "parameters": [
+                        "1.2"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "LinearMovement::LinearMovement::SetSpeedX"
+                      },
+                      "parameters": [
+                        "NewSprite3",
+                        "LinearMovement",
+                        "=",
+                        "180",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Wait"
+                      },
+                      "parameters": [
+                        "2"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "LinearMovement::LinearMovement::SetSpeedX"
+                      },
+                      "parameters": [
+                        "NewSprite3",
+                        "LinearMovement",
+                        "=",
+                        "0",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "MettreX"
+                      },
+                      "parameters": [
+                        "NewSprite3",
+                        "+",
+                        "40"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Wait"
+                      },
+                      "parameters": [
+                        "1"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "LinearMovement::LinearMovement::SetSpeedX"
+                      },
+                      "parameters": [
+                        "NewSprite3",
+                        "LinearMovement",
+                        "=",
+                        "180",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Wait"
+                      },
+                      "parameters": [
+                        "1.6"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "LinearMovement::LinearMovement::SetSpeedX"
+                      },
+                      "parameters": [
+                        "NewSprite3",
+                        "LinearMovement",
+                        "=",
+                        "0",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "FlashTransitionPainter::FlashTransitionPainter::PaintEffect"
+                      },
+                      "parameters": [
+                        "Out",
+                        "FlashTransitionPainter",
+                        "\"0;0;0\"",
+                        "1",
+                        "\"Circular\"",
+                        "\"Forward\"",
+                        "",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Wait"
+                      },
+                      "parameters": [
+                        "1"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Scene"
+                      },
+                      "parameters": [
+                        "",
+                        "\"Monas\"",
+                        ""
+                      ]
+                    }
                   ]
                 }
               ]
@@ -4669,7 +5328,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 0.7130377630690545,
+        "zoomFactor": 0.5653158055126435,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -6058,7 +6717,20 @@
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [],
-          "effects": [],
+          "effects": [
+            {
+              "effectType": "Outline",
+              "name": "Effect",
+              "doubleParameters": {
+                "padding": 0,
+                "thickness": 3
+              },
+              "stringParameters": {
+                "color": "0;0;0"
+              },
+              "booleanParameters": {}
+            }
+          ],
           "behaviors": [
             {
               "name": "ButtonFSM",
@@ -7848,262 +8520,6 @@
                 }
               ],
               "parameters": []
-            },
-            {
-              "colorB": 228,
-              "colorG": 176,
-              "colorR": 74,
-              "creationTime": 0,
-              "name": "Menu",
-              "source": "",
-              "type": "BuiltinCommonInstructions::Group",
-              "events": [
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "ButtonStates::ButtonFSM::IsClicked"
-                      },
-                      "parameters": [
-                        "Pause",
-                        "ButtonFSM",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "BuiltinCommonInstructions::Once"
-                      },
-                      "parameters": []
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "AnimatableCapability::AnimatableBehavior::SetName"
-                      },
-                      "parameters": [
-                        "Pause",
-                        "Animation",
-                        "=",
-                        "\"play\""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "ShowLayer"
-                      },
-                      "parameters": [
-                        "",
-                        "\"Pause\""
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "ButtonStates::ButtonFSM::IsClicked"
-                      },
-                      "parameters": [
-                        "Pause",
-                        "ButtonFSM",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "AnimatableCapability::AnimatableBehavior::Name"
-                      },
-                      "parameters": [
-                        "Pause",
-                        "Animation",
-                        "=",
-                        "\"play\""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "BuiltinCommonInstructions::Once"
-                      },
-                      "parameters": []
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "AnimatableCapability::AnimatableBehavior::SetName"
-                      },
-                      "parameters": [
-                        "Pause",
-                        "Animation",
-                        "=",
-                        "\"pause\""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "HideLayer"
-                      },
-                      "parameters": [
-                        "",
-                        "\"Pause\""
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "LayerVisible"
-                      },
-                      "parameters": [
-                        "",
-                        "\"Pause\""
-                      ]
-                    }
-                  ],
-                  "actions": [],
-                  "events": [
-                    {
-                      "type": "BuiltinCommonInstructions::Standard",
-                      "conditions": [
-                        {
-                          "type": {
-                            "value": "PanelSpriteButton::PanelSpriteButton::IsClicked"
-                          },
-                          "parameters": [
-                            "Resume",
-                            ""
-                          ]
-                        }
-                      ],
-                      "actions": [
-                        {
-                          "type": {
-                            "value": "HideLayer"
-                          },
-                          "parameters": [
-                            "",
-                            "\"Pause\""
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "AnimatableCapability::AnimatableBehavior::SetName"
-                          },
-                          "parameters": [
-                            "Pause",
-                            "Animation",
-                            "=",
-                            "\"pause\""
-                          ]
-                        }
-                      ]
-                    },
-                    {
-                      "type": "BuiltinCommonInstructions::Standard",
-                      "conditions": [
-                        {
-                          "type": {
-                            "value": "PanelSpriteButton::PanelSpriteButton::IsClicked"
-                          },
-                          "parameters": [
-                            "Quit",
-                            ""
-                          ]
-                        }
-                      ],
-                      "actions": [
-                        {
-                          "type": {
-                            "value": "HideLayer"
-                          },
-                          "parameters": [
-                            "",
-                            "\"Pause\""
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "Quit"
-                          },
-                          "parameters": [
-                            ""
-                          ]
-                        }
-                      ]
-                    },
-                    {
-                      "type": "BuiltinCommonInstructions::Standard",
-                      "conditions": [
-                        {
-                          "type": {
-                            "value": "PanelSpriteButton::PanelSpriteButton::IsClicked"
-                          },
-                          "parameters": [
-                            "Menu",
-                            ""
-                          ]
-                        }
-                      ],
-                      "actions": [
-                        {
-                          "type": {
-                            "value": "HideLayer"
-                          },
-                          "parameters": [
-                            "",
-                            "\"Pause\""
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "Scene"
-                          },
-                          "parameters": [
-                            "",
-                            "\"Main Menu\"",
-                            ""
-                          ]
-                        }
-                      ]
-                    },
-                    {
-                      "type": "BuiltinCommonInstructions::Standard",
-                      "conditions": [
-                        {
-                          "type": {
-                            "value": "PanelSpriteButton::PanelSpriteButton::IsClicked"
-                          },
-                          "parameters": [
-                            "Restart",
-                            ""
-                          ]
-                        }
-                      ],
-                      "actions": [
-                        {
-                          "type": {
-                            "value": "Scene"
-                          },
-                          "parameters": [
-                            "",
-                            "\"Sekolah\"",
-                            ""
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ],
-              "parameters": []
             }
           ],
           "parameters": []
@@ -8127,6 +8543,11 @@
               ]
             }
           ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": []
         },
         {
           "colorB": 228,
@@ -8718,31 +9139,444 @@
           "parameters": []
         },
         {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "folded": true,
+          "name": "Pause_Layer",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
             {
-              "type": {
-                "value": "DepartScene"
-              },
-              "parameters": [
-                ""
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "ButtonStates::ButtonFSM::IsClicked"
+                  },
+                  "parameters": [
+                    "Pause",
+                    "ButtonFSM",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "ShowLayer"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Pause\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                  },
+                  "parameters": [
+                    "Pause",
+                    "Animation",
+                    "=",
+                    "\"play\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ActivateBehavior"
+                  },
+                  "parameters": [
+                    "Player",
+                    "PlatformerObject",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ChangeTimeScale"
+                  },
+                  "parameters": [
+                    "",
+                    "0"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PanelSpriteButton::PanelSpriteButton::Activate"
+                  },
+                  "parameters": [
+                    "Quit",
+                    "yes",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PanelSpriteButton::PanelSpriteButton::Activate"
+                  },
+                  "parameters": [
+                    "Resume",
+                    "yes",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PanelSpriteButton::PanelSpriteButton::Activate"
+                  },
+                  "parameters": [
+                    "Menu",
+                    "yes",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PanelSpriteButton::PanelSpriteButton::Activate"
+                  },
+                  "parameters": [
+                    "Restart",
+                    "yes",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "DepartScene"
+                  },
+                  "parameters": [
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "PanelSpriteButton::PanelSpriteButton::Activate"
+                  },
+                  "parameters": [
+                    "Restart",
+                    "no",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PanelSpriteButton::PanelSpriteButton::Activate"
+                  },
+                  "parameters": [
+                    "Resume",
+                    "no",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PanelSpriteButton::PanelSpriteButton::Activate"
+                  },
+                  "parameters": [
+                    "Quit",
+                    "no",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PanelSpriteButton::PanelSpriteButton::Activate"
+                  },
+                  "parameters": [
+                    "Menu",
+                    "no",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "PanelSpriteButton::PanelSpriteButton::IsClicked"
+                  },
+                  "parameters": [
+                    "Resume",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "ShowLayer"
+                  },
+                  "parameters": [
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "HideLayer"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Pause\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "UnPauseTimer"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Timer2\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                  },
+                  "parameters": [
+                    "Pause",
+                    "Animation",
+                    "=",
+                    "\"pause\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ActivateBehavior"
+                  },
+                  "parameters": [
+                    "Player",
+                    "PlatformerObject",
+                    "yes"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ChangeTimeScale"
+                  },
+                  "parameters": [
+                    "",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PanelSpriteButton::PanelSpriteButton::Activate"
+                  },
+                  "parameters": [
+                    "Restart",
+                    "no",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PanelSpriteButton::PanelSpriteButton::Activate"
+                  },
+                  "parameters": [
+                    "Resume",
+                    "no",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PanelSpriteButton::PanelSpriteButton::Activate"
+                  },
+                  "parameters": [
+                    "Menu",
+                    "no",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PanelSpriteButton::PanelSpriteButton::Activate"
+                  },
+                  "parameters": [
+                    "Quit",
+                    "no",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "PanelSpriteButton::PanelSpriteButton::IsClicked"
+                  },
+                  "parameters": [
+                    "Quit",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetFullScreen"
+                  },
+                  "parameters": [
+                    "",
+                    "",
+                    "no"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Quit"
+                  },
+                  "parameters": [
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "PanelSpriteButton::PanelSpriteButton::IsClicked"
+                  },
+                  "parameters": [
+                    "Menu",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Scene"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Main Menu\"",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "PanelSpriteButton::PanelSpriteButton::IsClicked"
+                  },
+                  "parameters": [
+                    "Restart",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Scene"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Sekolah\"",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "Score",
+                    "",
+                    "0"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "OOP_Score",
+                    "",
+                    "0"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "ButtonStates::ButtonFSM::IsHovered"
+                  },
+                  "parameters": [
+                    "Pause",
+                    "ButtonFSM",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "EffectCapability::EffectBehavior::EnableEffect"
+                  },
+                  "parameters": [
+                    "Pause",
+                    "Effect",
+                    "\"Effect\"",
+                    "yes"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "ButtonStates::ButtonFSM::IsHovered"
+                  },
+                  "parameters": [
+                    "Pause",
+                    "ButtonFSM",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "EffectCapability::EffectBehavior::EnableEffect"
+                  },
+                  "parameters": [
+                    "Pause",
+                    "Effect",
+                    "\"Effect\"",
+                    "no"
+                  ]
+                }
               ]
             }
           ],
-          "actions": [
-            {
-              "type": {
-                "value": "PlayMusic"
-              },
-              "parameters": [
-                "",
-                "Free Backsound Jawa - Happy Javanese Backsound.mp3",
-                "",
-                "25",
-                ""
-              ]
-            }
-          ]
+          "parameters": []
         }
       ],
       "layers": [
@@ -8982,7 +9816,7 @@
           "isLocked": false,
           "name": "Pause",
           "renderingType": "",
-          "visibility": true,
+          "visibility": false,
           "cameras": [],
           "effects": [
             {
@@ -9136,3103 +9970,6 @@
       ]
     },
     {
-      "b": 226,
-      "disableInputWhenNotFocused": true,
-      "mangledName": "TurunTJ",
-      "name": "TurunTJ",
-      "r": 226,
-      "standardSortMethod": true,
-      "stopSoundsOnStartup": true,
-      "title": "",
-      "v": 226,
-      "uiSettings": {
-        "grid": false,
-        "gridType": "rectangular",
-        "gridWidth": 32,
-        "gridHeight": 32,
-        "gridOffsetX": 0,
-        "gridOffsetY": 0,
-        "gridColor": 10401023,
-        "gridAlpha": 0.8,
-        "snap": false,
-        "zoomFactor": 0.4789341884535348,
-        "windowMask": false
-      },
-      "objectsGroups": [],
-      "variables": [],
-      "instances": [
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 1335,
-          "keepRatio": true,
-          "layer": "",
-          "name": "Right_Boundaries",
-          "persistentUuid": "9f45ebc2-3312-4dae-873a-6c9306cef661",
-          "width": 32,
-          "x": 1410,
-          "y": -175,
-          "zOrder": 9,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 32,
-          "keepRatio": true,
-          "layer": "",
-          "name": "Bottom_Boundaries",
-          "persistentUuid": "c0ec4de4-ef24-4470-a516-00012de07c7e",
-          "width": 4120,
-          "x": -454,
-          "y": 737,
-          "zOrder": 10,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 32,
-          "keepRatio": true,
-          "layer": "",
-          "name": "Top_Boundaries",
-          "persistentUuid": "2f61d38c-ee1e-4702-af94-71692c3966bc",
-          "width": 3660,
-          "x": -480,
-          "y": -177,
-          "zOrder": 11,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 2061,
-          "keepRatio": true,
-          "layer": "",
-          "name": "Left_Boundaries",
-          "persistentUuid": "b508c399-62c6-406e-a493-c9651e96f89e",
-          "width": 32,
-          "x": -87,
-          "y": -301,
-          "zOrder": 12,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 864,
-          "keepRatio": true,
-          "layer": "Bg",
-          "name": "CLOUDBG",
-          "persistentUuid": "014ace9c-d590-43ef-b184-b3cecd6a18a9",
-          "width": 2176,
-          "x": -320,
-          "y": -192,
-          "zOrder": 13,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 0,
-          "height": 512,
-          "keepRatio": true,
-          "layer": "",
-          "name": "NewSprite",
-          "persistentUuid": "f26fbe51-2ba1-4640-a36c-7c00081558f4",
-          "width": 512,
-          "x": -224,
-          "y": 224,
-          "zOrder": 22,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 0,
-          "height": 512,
-          "keepRatio": true,
-          "layer": "",
-          "name": "NewSprite",
-          "persistentUuid": "b35ddfcf-f556-4165-8817-3342a9792260",
-          "width": 512,
-          "x": 288,
-          "y": 224,
-          "zOrder": 22,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 0,
-          "height": 512,
-          "keepRatio": true,
-          "layer": "",
-          "name": "NewSprite",
-          "persistentUuid": "31e63814-d633-4c93-a0a0-d142e5a8b3ad",
-          "width": 512,
-          "x": 800,
-          "y": 224,
-          "zOrder": 17,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 0,
-          "height": 512,
-          "keepRatio": true,
-          "layer": "",
-          "name": "NewSprite",
-          "persistentUuid": "5d571f64-f943-4f2f-a229-dbb7bb894fba",
-          "width": 512,
-          "x": 1312,
-          "y": 224,
-          "zOrder": 17,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "flippedX": true,
-          "height": 608,
-          "keepRatio": true,
-          "layer": "",
-          "name": "Transjakarta",
-          "persistentUuid": "5a2aa101-705d-4ad7-97c7-523ce06b1f66",
-          "width": 672,
-          "x": 238,
-          "y": 262,
-          "zOrder": 50,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 0.6,
-          "height": 96,
-          "keepRatio": true,
-          "layer": "",
-          "name": "Player",
-          "persistentUuid": "b8334a1c-ed48-4245-bf92-081d4c24bd5d",
-          "width": 96,
-          "x": 576,
-          "y": 512,
-          "zOrder": 20,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 224,
-          "keepRatio": true,
-          "layer": "",
-          "name": "NewPanelSprite2",
-          "persistentUuid": "9650ae75-774e-4214-89b7-5cdb9fdb9293",
-          "width": 160,
-          "x": 1248,
-          "y": 352,
-          "zOrder": 22,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 224,
-          "keepRatio": true,
-          "layer": "",
-          "name": "NewPanelSprite2",
-          "persistentUuid": "31dc2c91-5786-4193-ac67-4780e5a2abd7",
-          "width": 160,
-          "x": 768,
-          "y": 352,
-          "zOrder": 22,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 224,
-          "keepRatio": true,
-          "layer": "",
-          "name": "NewPanelSprite2",
-          "persistentUuid": "be99d70f-6151-4e19-8675-7bc53bea3e21",
-          "width": 160,
-          "x": 608,
-          "y": 352,
-          "zOrder": 22,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 224,
-          "keepRatio": true,
-          "layer": "",
-          "name": "NewPanelSprite2",
-          "persistentUuid": "a0d97d39-43e1-4d48-9df5-1fe393ef2e98",
-          "width": 160,
-          "x": 128,
-          "y": 352,
-          "zOrder": 1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 224,
-          "keepRatio": true,
-          "layer": "",
-          "name": "NewPanelSprite2",
-          "persistentUuid": "811f9830-5ff9-416a-a927-1f688e6fd8f5",
-          "width": 160,
-          "x": 288,
-          "y": 352,
-          "zOrder": 1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 224,
-          "keepRatio": true,
-          "layer": "",
-          "name": "NewPanelSprite2",
-          "persistentUuid": "828b3db6-0a31-4a2c-9364-157231e71e29",
-          "width": 160,
-          "x": 448,
-          "y": 352,
-          "zOrder": 1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 224,
-          "keepRatio": true,
-          "layer": "",
-          "name": "NewPanelSprite2",
-          "persistentUuid": "8413bf91-01ed-4a33-8a23-6ff6237ca1cb",
-          "width": 160,
-          "x": -352,
-          "y": 352,
-          "zOrder": 1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 224,
-          "keepRatio": true,
-          "layer": "",
-          "name": "NewPanelSprite2",
-          "persistentUuid": "5ec36fb9-2ee7-4cb7-9fa8-d1d1b66fcbf6",
-          "width": 160,
-          "x": -192,
-          "y": 352,
-          "zOrder": 1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 224,
-          "keepRatio": true,
-          "layer": "",
-          "name": "NewPanelSprite2",
-          "persistentUuid": "f0dbc55c-4a49-487b-a50e-34cb33e4b4b5",
-          "width": 160,
-          "x": -32,
-          "y": 352,
-          "zOrder": 1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 224,
-          "keepRatio": true,
-          "layer": "",
-          "name": "NewPanelSprite4",
-          "persistentUuid": "d836ed5d-34fd-4cbb-a4f7-62753ff7892b",
-          "width": 128,
-          "x": 1152,
-          "y": 352,
-          "zOrder": 23,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 64,
-          "keepRatio": true,
-          "layer": "UI",
-          "name": "Pause",
-          "persistentUuid": "21e3aee2-d83b-4967-bd29-188c5b73cec0",
-          "width": 64,
-          "x": 1184,
-          "y": 32,
-          "zOrder": 24,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 64,
-          "height": 64,
-          "keepRatio": true,
-          "layer": "Pause",
-          "name": "Resume",
-          "persistentUuid": "59108e11-2459-4510-aeec-723afcbcddd4",
-          "width": 256,
-          "x": 832,
-          "y": 64,
-          "zOrder": 25,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 64,
-          "height": 64,
-          "keepRatio": true,
-          "layer": "Pause",
-          "name": "Restart",
-          "persistentUuid": "30bc4109-485b-42ba-9fe8-f13db2a9b347",
-          "width": 256,
-          "x": 832,
-          "y": 160,
-          "zOrder": 26,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 544,
-          "keepRatio": true,
-          "layer": "Pause",
-          "name": "Default_TransparentPanel_30",
-          "persistentUuid": "361b0e25-fda2-44aa-8fab-07043b5106d9",
-          "width": 384,
-          "x": 768,
-          "y": 32,
-          "zOrder": 0,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 64,
-          "height": 64,
-          "keepRatio": true,
-          "layer": "Pause",
-          "name": "Menu",
-          "persistentUuid": "e2c4b784-0c72-4e76-a046-03ae558e2a2a",
-          "width": 256,
-          "x": 832,
-          "y": 256,
-          "zOrder": 27,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 64,
-          "height": 64,
-          "keepRatio": true,
-          "layer": "Pause",
-          "name": "Quit",
-          "persistentUuid": "9254900b-403a-4c35-8ac0-fde6d2643cbe",
-          "width": 256,
-          "x": 832,
-          "y": 352,
-          "zOrder": 28,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "flippedX": true,
-          "height": 1088,
-          "keepRatio": true,
-          "layer": "",
-          "name": "NewSprite2",
-          "persistentUuid": "9aeed3ba-94a6-4ed8-a965-fa6dc47cb37a",
-          "width": 928,
-          "x": -111,
-          "y": -480,
-          "zOrder": 20,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 96,
-          "keepRatio": true,
-          "layer": "",
-          "name": "NewPanelSprite3",
-          "persistentUuid": "0e03f6b2-8190-4713-91b5-7e76cb3d082d",
-          "width": 128,
-          "x": 928,
-          "y": 320,
-          "zOrder": 51,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 96,
-          "keepRatio": true,
-          "layer": "",
-          "name": "NewPanelSprite3",
-          "persistentUuid": "64080ae8-2a8d-46fe-b8ce-9b367a09f9bd",
-          "width": 128,
-          "x": 1056,
-          "y": 320,
-          "zOrder": 51,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 96,
-          "keepRatio": true,
-          "layer": "",
-          "name": "NewPanelSprite3",
-          "persistentUuid": "577c2f2f-468a-4cb9-93bb-ece62c9ad8e5",
-          "width": 128,
-          "x": 1120,
-          "y": 320,
-          "zOrder": 51,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "",
-          "name": "NewSprite4",
-          "persistentUuid": "89bab0c7-f768-49b5-8001-20f02fd91af4",
-          "width": 0,
-          "x": 1067,
-          "y": 563,
-          "zOrder": 52,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        }
-      ],
-      "objects": [
-        {
-          "adaptCollisionMaskAutomatically": true,
-          "assetStoreId": "",
-          "name": "Transjakarta",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [
-            {
-              "name": "LinearMovement",
-              "type": "LinearMovement::LinearMovement",
-              "SpeedX": 0,
-              "SpeedY": 0
-            }
-          ],
-          "animations": [
-            {
-              "name": "Idle",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "metadata": "{\"pskl\":{\"data\":\"{\\\"modelVersion\\\":2,\\\"piskel\\\":{\\\"name\\\":\\\"Idle\\\",\\\"description\\\":\\\"\\\",\\\"fps\\\":12,\\\"height\\\":32,\\\"width\\\":32,\\\"layers\\\":[\\\"{\\\\\\\"name\\\\\\\":\\\\\\\"Layer 1\\\\\\\",\\\\\\\"opacity\\\\\\\":1,\\\\\\\"frameCount\\\\\\\":2,\\\\\\\"chunks\\\\\\\":[{\\\\\\\"layout\\\\\\\":[[0],[1]],\\\\\\\"base64PNG\\\\\\\":\\\\\\\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAAAgCAYAAACinX6EAAAAAXNSR0IArs4c6QAAArVJREFUaEPtlj9sElEcx7+UA2JTi4pUMDjQxNQ4dTE2mujsYI3GP3VwcXKqJsZBO7g4dKhN06UmDko3WdCYamkNiDS00KhoiRHb1PInARGBg3pVODjDMyVFgRwoF5K7Sy55ufvlvd/7fL+/33syiPyRiXz/kABIDhA5AakERG4AqQlKJSCVgMgJ1FUCOp2O48MrGo3WNS+fOZsVUzXRSps9ffESTvX3/5ULpaDweDEOrVqJSCgO+4IfubgXTMhTFvuvYJohQEUAmwvpjl5GJuYB1bkLih0a5OgkUMiD2rkbLJ0gmyv+Y9MJyOQUOHkHWPorFO1KUGoNsvEo5O0dSLqsJLYeAEIJUBVAMdnuvuMcs+YnyRuvDSPz+hXizmcwXh1G2mPDt/kZMs68+f19z7k7yCw+BbPmJt+TNgtSS+6SC/gCEFKAmrXaffgYxwQ+kQ3svzKE/IoPqy+ekDHr9+KzfYqM0z4vvsxNQX/mNujll2CWHFBfuI7cOxeYj/MNARBKAF4ARszPceLAvop9KMUUYHGEoaJY+CJ52NxBcNksZDKQW1axa2YWbmBQpcCtQKiu5iiEADUTMvYe4jaiITgdTsRiMfJqNBro9+pLMOZ8NCKJAlZCNByut+CyKYDajjZlJ1g2BzbPgv0wgpMqJe4Hgg0BaKYANRParMXRu6OwWqdhmpwk8aaHJq6np4dA6NJq8T5YwLjJhsTyNLwuC4kx9g1y6Y0cmO8pqNftdTdBMocAAtQEEH1whOu9uYqB8wMYGx8ri52dmS3dCRQUhUdmMybuTZTFdB08y/38sY5tjLchAEIIwMsBlY4wg8Hwx6WoDeFwucW3HmV8T4CtjUYIAeqqyWbdxqrNWwvg/xKgpQEIAVwCIATlVl5DckArqyNEbpIDhKDcymtIDmhldYTITfQO+AUc8Ag/W7YH2AAAAABJRU5ErkJggg==\\\\\\\"}]}\\\",\\\"{\\\\\\\"name\\\\\\\":\\\\\\\"Layer 2\\\\\\\",\\\\\\\"opacity\\\\\\\":1,\\\\\\\"frameCount\\\\\\\":2,\\\\\\\"chunks\\\\\\\":[{\\\\\\\"layout\\\\\\\":[[0],[1]],\\\\\\\"base64PNG\\\\\\\":\\\\\\\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAAAgCAYAAACinX6EAAAAAXNSR0IArs4c6QAAAMJJREFUaEPtlUEOgCAMBOsvuOsjDP9/Bt4Rb/gADTdiNBRR0qTreWnLdBcHUv4Nyu9PAAAHKCeACCg3AB5BRAARUE4AEVBuAPwFEAFEQDkBRKDGAMaYI+m994/gOJqanrmWU5ujyWuyHZAK29lS2AK5xd1C4GhaLv9H/yoA0zhRjDuFbX0EUNK0ACjVTgsoaa792QDSQY69OJoWCF9HsArA28ElnwMAydvpMRsc0IOy5B5wgOTt9JgNDuhBWXIP9Q44AUq7cCFHAcNTAAAAAElFTkSuQmCC\\\\\\\"}]}\\\"],\\\"hiddenFrames\\\":[1]}}\",\"resourceNames\":[\"Idle2\",\"Idle\"],\"name\":\"Idle\"}}",
-                  "timeBetweenFrames": 0.3,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Idle2",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 5,
-                            "y": 11
-                          },
-                          {
-                            "x": 27,
-                            "y": 11
-                          },
-                          {
-                            "x": 27,
-                            "y": 22
-                          },
-                          {
-                            "x": 5,
-                            "y": 22
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Idle",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 5,
-                            "y": 11
-                          },
-                          {
-                            "x": 27,
-                            "y": 11
-                          },
-                          {
-                            "x": 27,
-                            "y": 22
-                          },
-                          {
-                            "x": 5,
-                            "y": 22
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Walk",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "metadata": "{\"pskl\":{\"data\":\"{\\\"modelVersion\\\":2,\\\"piskel\\\":{\\\"name\\\":\\\"tj\\\",\\\"description\\\":\\\"\\\",\\\"fps\\\":12,\\\"height\\\":32,\\\"width\\\":32,\\\"layers\\\":[\\\"{\\\\\\\"name\\\\\\\":\\\\\\\"Layer 1\\\\\\\",\\\\\\\"opacity\\\\\\\":1,\\\\\\\"frameCount\\\\\\\":3,\\\\\\\"chunks\\\\\\\":[{\\\\\\\"layout\\\\\\\":[[0],[1],[2]],\\\\\\\"base64PNG\\\\\\\":\\\\\\\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGAAAAAgCAYAAADtwH1UAAAAAXNSR0IArs4c6QAAA2pJREFUaEPtmD1ME2Ecxp/CFQJBqlSwGDBWIBgnFqVBo7ODGI0iDi5OTmhiHNTBxQESJIQFEwctLNilGIPyYUCElK+oVRojQrClhJZa+omHtkfP9Mg1bS3NVcO9A2+TJm/u3rvneZ9f/+//rgrQD9EEFETVqTgoAMI/AgqAAiCcAGF5WgEUAOEECMvTCqAACCdAWJ5WAAVAOAHC8hlVgEaj4aX4dTqdGd1Xyj1Jaov+dsLDtkGlErtw9RrO19f/lRejZNA740axKgcOuxsjk3MIu81g7dMJc6WCIamdLuydWH9KAGIAmpPXEXRNgyksgnKvGmG/F4hsgtm3H5zfI3iNnuMCHiiyGfDZBeD8P6DMzwGjUiPkdiI7vwBe04AwVwoAktrJ4cux/m0BRMM6ojvDs9Y5wZf2VjOC79/BPfYK2pvNCEwPY21iUBgHP2wdP3D5IYIzL8Fap4Tj3mEjfLNTsSqQCoCUdjwAuTyk3auP1J7mWds3wVfVjfvYXLBg8c0LYczNmfF9pE8YByxmrI73ofTiA/jn34KdHYXqym2EP5nAfp3ICIA4maS2nB4kAWg1vMbZo+Upe6WPjcA4uoxchoPFsYnhqSXwoRAUCgh/tUa7dnDyDppylbhns0tuziIAEtrJAHbSQ9pAtDXH+Q2nHWOjY3C5XMJXrVaj9GBpDMa4xQ+HJ4IFux+jpo/gQz6A2YOsnEJwXBjcJgfuSyvO5ebgiW1JMgCS2uLi5PCQNhCxIbY9asPAQD8GBgcFby3NLaiurhbGJcXF+LwUQYd+GJ75fjgXt7acvMMNCGyEwf70QbU+IrkJJzdCUVvf1SV41T/T89tpm01GYY5W18T/j7acHtICcD6t42vuLqKxoRE9hh7U6epgtVmx4lhBd1d3rAqUDIPnBgOMvUboTtTCZluCY9WBSNEp/P61jjzWnDGAeO32jvYEn0ODQ7H3EVG783FnwpySY5f4f9UWFyaHB0kVIBqqrKhEIBCEx7O2tcEnfLLAcSFUVVTB6/PCveZOOCvlCSj+gvh3geRry8rKkl4Is7C8nLi9pbs+ZTNLcVAOD5L35Ki/8vJDfDgcSvs8L2WO1AB2w7yMAOyGQOReIwUgd+JJehQABUA4AcLytAIoAMIJEJanFUABEE6AsDytAAqAcAKE5f8Aeb4qTlSyIZsAAAAASUVORK5CYII=\\\\\\\"}]}\\\",\\\"{\\\\\\\"name\\\\\\\":\\\\\\\"Layer 2\\\\\\\",\\\\\\\"opacity\\\\\\\":1,\\\\\\\"frameCount\\\\\\\":3,\\\\\\\"chunks\\\\\\\":[{\\\\\\\"layout\\\\\\\":[[0],[1],[2]],\\\\\\\"base64PNG\\\\\\\":\\\\\\\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGAAAAAgCAYAAADtwH1UAAAAAXNSR0IArs4c6QAAAP9JREFUaEPtlEEOgkAQBJdfcJdHGP//DLwj3PABmr0ZI6EzTGw2Kc6905uqHbrCZyXQWdspLwgwPwIEIMBMwFzPBiDATMBczwYgwEzAXM8GIMBMwFzPBiDATMBczwYgwEzAXM8GIMBMwFzPBiBAI9D3/asmp2nafDRKRmv7X6qJDahgb9dbmZe5jPfxpwQlcxSrIljJfN6jGQHDZSjr+izz8tgUsJc5IkARrGS+79CEgHpp5WUpmaiEOntPsJJpVkAUXOY5RbCSae4XlAnxbLOa+QWdDVzWfRCQRTI4BwFBcFnHEJBFMjgHAUFwWccQkEUyOAcBQXBZxxCQRTI45w0rqXAhw0azowAAAABJRU5ErkJggg==\\\\\\\"}]}\\\"],\\\"hiddenFrames\\\":[\\\"\\\"]}}\",\"resourceNames\":[\"tj9\",\"tj10\",\"tj11\"],\"name\":\"tj\"}}",
-                  "timeBetweenFrames": 0.12,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "tj9",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 5,
-                            "y": 11
-                          },
-                          {
-                            "x": 27,
-                            "y": 11
-                          },
-                          {
-                            "x": 27,
-                            "y": 22
-                          },
-                          {
-                            "x": 5,
-                            "y": 22
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "tj10",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 5,
-                            "y": 11
-                          },
-                          {
-                            "x": 27,
-                            "y": 11
-                          },
-                          {
-                            "x": 27,
-                            "y": 22
-                          },
-                          {
-                            "x": 5,
-                            "y": 22
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "tj11",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 5,
-                            "y": 11
-                          },
-                          {
-                            "x": 27,
-                            "y": 11
-                          },
-                          {
-                            "x": 27,
-                            "y": 22
-                          },
-                          {
-                            "x": 5,
-                            "y": 22
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "assetStoreId": "",
-          "bottomMargin": 0,
-          "height": 32,
-          "leftMargin": 0,
-          "name": "Ondel_ondel",
-          "rightMargin": 0,
-          "texture": "ondel.png3",
-          "tiled": false,
-          "topMargin": 0,
-          "type": "PanelSpriteObject::PanelSprite",
-          "width": 32,
-          "variables": [],
-          "effects": [],
-          "behaviors": []
-        },
-        {
-          "assetStoreId": "",
-          "bottomMargin": 0,
-          "height": 32,
-          "leftMargin": 0,
-          "name": "KueCucur",
-          "rightMargin": 0,
-          "texture": "Untitled design.png2",
-          "tiled": false,
-          "topMargin": 0,
-          "type": "PanelSpriteObject::PanelSprite",
-          "width": 32,
-          "variables": [],
-          "effects": [],
-          "behaviors": []
-        },
-        {
-          "assetStoreId": "",
-          "bottomMargin": 0,
-          "height": 32,
-          "leftMargin": 0,
-          "name": "Gerobak",
-          "rightMargin": 0,
-          "texture": "gerobak.jpg2",
-          "tiled": false,
-          "topMargin": 0,
-          "type": "PanelSpriteObject::PanelSprite",
-          "width": 32,
-          "variables": [],
-          "effects": [],
-          "behaviors": []
-        },
-        {
-          "assetStoreId": "",
-          "bottomMargin": 0,
-          "height": 32,
-          "leftMargin": 0,
-          "name": "Sekolah",
-          "rightMargin": 0,
-          "texture": "sekolah2.png4",
-          "tiled": false,
-          "topMargin": 0,
-          "type": "PanelSpriteObject::PanelSprite",
-          "width": 32,
-          "variables": [],
-          "effects": [],
-          "behaviors": []
-        },
-        {
-          "adaptCollisionMaskAutomatically": false,
-          "assetStoreId": "",
-          "name": "NewSprite",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [
-            {
-              "name": "Platform",
-              "type": "PlatformBehavior::PlatformBehavior",
-              "canBeGrabbed": true,
-              "platformType": "NormalPlatform",
-              "yGrabOffset": 0
-            }
-          ],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "assets\\NewPanelSprite3.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 0,
-                            "y": 23.5
-                          },
-                          {
-                            "x": 32,
-                            "y": 23.5
-                          },
-                          {
-                            "x": 32,
-                            "y": 32
-                          },
-                          {
-                            "x": 0,
-                            "y": 32
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "adaptCollisionMaskAutomatically": false,
-          "assetStoreId": "",
-          "name": "NewSprite2",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [
-            {
-              "name": "Platform",
-              "type": "PlatformBehavior::PlatformBehavior",
-              "canBeGrabbed": true,
-              "platformType": "NormalPlatform",
-              "yGrabOffset": 0
-            }
-          ],
-          "animations": [
-            {
-              "name": "NewSprite2",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "metadata": "{\"pskl\":{}}",
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "NewSprite2",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 6.5,
-                            "y": 60
-                          },
-                          {
-                            "x": 64,
-                            "y": 60
-                          },
-                          {
-                            "x": 64,
-                            "y": 64
-                          },
-                          {
-                            "x": 0,
-                            "y": 64
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "assetStoreId": "",
-          "height": 32,
-          "name": "Left_Boundaries",
-          "texture": "NewTiledSprite",
-          "type": "TiledSpriteObject::TiledSprite",
-          "width": 32,
-          "variables": [],
-          "effects": [],
-          "behaviors": []
-        },
-        {
-          "assetStoreId": "",
-          "height": 32,
-          "name": "Right_Boundaries",
-          "texture": "NewTiledSprite",
-          "type": "TiledSpriteObject::TiledSprite",
-          "width": 32,
-          "variables": [],
-          "effects": [],
-          "behaviors": []
-        },
-        {
-          "assetStoreId": "",
-          "height": 32,
-          "name": "Top_Boundaries",
-          "texture": "NewTiledSprite",
-          "type": "TiledSpriteObject::TiledSprite",
-          "width": 32,
-          "variables": [],
-          "effects": [],
-          "behaviors": []
-        },
-        {
-          "assetStoreId": "",
-          "height": 32,
-          "name": "Bottom_Boundaries",
-          "texture": "NewTiledSprite",
-          "type": "TiledSpriteObject::TiledSprite",
-          "width": 32,
-          "variables": [],
-          "effects": [],
-          "behaviors": []
-        },
-        {
-          "adaptCollisionMaskAutomatically": true,
-          "assetStoreId": "b82ce55b1f54b63404485a57e3173f0b4d1e8eff4e1d1fc6c3cf3ce60c5e03e7",
-          "name": "Tree_2",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "Tree 2",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "metadata": "{\"pskl\":{}}",
-                  "timeBetweenFrames": 0.025,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Tree 2",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 0,
-                            "y": 0
-                          },
-                          {
-                            "x": 32,
-                            "y": 0
-                          },
-                          {
-                            "x": 32,
-                            "y": 34
-                          },
-                          {
-                            "x": 0,
-                            "y": 34
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "adaptCollisionMaskAutomatically": true,
-          "assetStoreId": "",
-          "name": "NewSprite3",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "AWN2",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "metadata": "{\"pskl\":{}}",
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Free-Sky-with-Clouds-Background-Pixel-Art8.jpg",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 0,
-                            "y": 0
-                          },
-                          {
-                            "x": 1800,
-                            "y": 0
-                          },
-                          {
-                            "x": 1800,
-                            "y": 1200
-                          },
-                          {
-                            "x": 0,
-                            "y": 1200
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "adaptCollisionMaskAutomatically": true,
-          "assetStoreId": "5719b63adfd0ab991b85c0f5ae89f4e0a61d2b265c35c58e55ac0bf3b59e5db0",
-          "name": "Tree",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "Tree",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "metadata": "{\"pskl\":{}}",
-                  "timeBetweenFrames": 0.025,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Tree",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 0,
-                            "y": 0
-                          },
-                          {
-                            "x": 64,
-                            "y": 0
-                          },
-                          {
-                            "x": 64,
-                            "y": 53
-                          },
-                          {
-                            "x": 0,
-                            "y": 53
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "assetStoreId": "",
-          "bottomMargin": 0,
-          "height": 32,
-          "leftMargin": 0,
-          "name": "NewPanelSprite",
-          "rightMargin": 0,
-          "texture": "",
-          "tiled": false,
-          "topMargin": 0,
-          "type": "PanelSpriteObject::PanelSprite",
-          "width": 32,
-          "variables": [],
-          "effects": [],
-          "behaviors": []
-        },
-        {
-          "assetStoreId": "",
-          "height": 32,
-          "name": "CLOUDBG",
-          "texture": "Free-Sky-with-Clouds-Background-Pixel-Art10.jpg",
-          "type": "TiledSpriteObject::TiledSprite",
-          "width": 32,
-          "variables": [],
-          "effects": [],
-          "behaviors": []
-        },
-        {
-          "adaptCollisionMaskAutomatically": true,
-          "assetStoreId": "2d282669fd33dfbd93cbc88c29fc1768475a5b86292206939ebd3ded07aeedc6",
-          "name": "Pause",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [
-            {
-              "effectType": "Outline",
-              "name": "Effect",
-              "doubleParameters": {
-                "padding": 0,
-                "thickness": 3
-              },
-              "stringParameters": {
-                "color": "0;0;0"
-              },
-              "booleanParameters": {}
-            }
-          ],
-          "behaviors": [
-            {
-              "name": "ButtonFSM",
-              "type": "ButtonStates::ButtonFSM",
-              "ShouldCheckHovering": true,
-              "State": "Idle",
-              "TouchId": 0,
-              "TouchIsInside": false,
-              "MouseIsInside": false,
-              "Index": 2.0247e-320
-            }
-          ],
-          "behaviors": [
-            {
-              "name": "ButtonFSM",
-              "type": "ButtonStates::ButtonFSM",
-              "ShouldCheckHovering": true,
-              "State": "Idle",
-              "TouchId": 0,
-              "TouchIsInside": false,
-              "MouseIsInside": false,
-              "Index": 2.0247e-320
-            }
-          ],
-          "animations": [
-            {
-              "name": "pause",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "metadata": "{\"pskl\":{}}",
-                  "timeBetweenFrames": 0.025,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Pause.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 0,
-                            "y": 0
-                          },
-                          {
-                            "x": 14,
-                            "y": 0
-                          },
-                          {
-                            "x": 14,
-                            "y": 14
-                          },
-                          {
-                            "x": 0,
-                            "y": 14
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "play",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "metadata": "{\"pskl\":{}}",
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "assets\\Play.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 0,
-                            "y": 0
-                          },
-                          {
-                            "x": 14,
-                            "y": 0
-                          },
-                          {
-                            "x": 14,
-                            "y": 14
-                          },
-                          {
-                            "x": 0,
-                            "y": 14
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "assetStoreId": "",
-          "bottomMargin": 0,
-          "height": 32,
-          "leftMargin": 0,
-          "name": "NewPanelSprite2",
-          "rightMargin": 0,
-          "texture": "NewPanelSprite4",
-          "tiled": false,
-          "topMargin": 0,
-          "type": "PanelSpriteObject::PanelSprite",
-          "width": 32,
-          "variables": [],
-          "effects": [],
-          "behaviors": []
-        },
-        {
-          "assetStoreId": "",
-          "height": 32,
-          "name": "NewTiledSprite",
-          "texture": "",
-          "type": "TiledSpriteObject::TiledSprite",
-          "width": 32,
-          "variables": [],
-          "effects": [],
-          "behaviors": []
-        },
-        {
-          "assetStoreId": "",
-          "bottomMargin": 0,
-          "height": 32,
-          "leftMargin": 0,
-          "name": "NewPanelSprite3",
-          "rightMargin": 0,
-          "texture": "Screenshot (2).png2",
-          "tiled": false,
-          "topMargin": 0,
-          "type": "PanelSpriteObject::PanelSprite",
-          "width": 32,
-          "variables": [],
-          "effects": [],
-          "behaviors": []
-        },
-        {
-          "assetStoreId": "",
-          "bottomMargin": 0,
-          "height": 32,
-          "leftMargin": 0,
-          "name": "NewPanelSprite4",
-          "rightMargin": 0,
-          "texture": "assets\\NewPanelSprite4 - Copy.png",
-          "tiled": false,
-          "topMargin": 0,
-          "type": "PanelSpriteObject::PanelSprite",
-          "width": 32,
-          "variables": [],
-          "effects": [],
-          "behaviors": []
-        },
-        {
-          "adaptCollisionMaskAutomatically": true,
-          "assetStoreId": "",
-          "name": "Player",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [
-            {
-              "name": "PlatformerCharacterAnimator",
-              "type": "PlatformerCharacterAnimator::PlatformerCharacterAnimator",
-              "EnableAnimationChanges": true,
-              "EnableHorizontalFlipping": true,
-              "IdleAnimationName": "Idle",
-              "RunAnimationName": "Run",
-              "JumpAnimationName": "Jump",
-              "FallAnimationName": "Fall",
-              "ClimbAnimationName": "Climb",
-              "PlatformerBehavior": "PlatformerObject",
-              "Animation": "Animation",
-              "Flippable": "Flippable"
-            },
-            {
-              "name": "PlatformerObject",
-              "type": "PlatformBehavior::PlatformerObjectBehavior",
-              "acceleration": 1500,
-              "canGoDownFromJumpthru": true,
-              "canGrabPlatforms": false,
-              "canGrabWithoutMoving": true,
-              "deceleration": 1500,
-              "gravity": 1000,
-              "ignoreDefaultControls": false,
-              "jumpSpeed": 600,
-              "jumpSustainTime": 0.2,
-              "ladderClimbingSpeed": 150,
-              "maxFallingSpeed": 700,
-              "maxSpeed": 250,
-              "slopeMaxAngle": 60,
-              "useLegacyTrajectory": false,
-              "useRepeatedJump": false,
-              "xGrabTolerance": 10,
-              "yGrabOffset": 0
-            },
-            {
-              "name": "SmoothCamera",
-              "type": "SmoothCamera::SmoothCamera",
-              "LeftwardSpeed": 0.9,
-              "RightwardSpeed": 0.9,
-              "UpwardSpeed": 0.9,
-              "DownwardSpeed": 0.9,
-              "FollowOnX": true,
-              "FollowOnY": true,
-              "FollowFreeAreaLeft": 0,
-              "FollowFreeAreaRight": 0,
-              "FollowFreeAreaTop": 0,
-              "FollowFreeAreaBottom": 0,
-              "CameraOffsetX": 0,
-              "CameraOffsetY": 0,
-              "CameraDelay": 0,
-              "ForecastTime": 0,
-              "ForecastHistoryDuration": 0,
-              "LogLeftwardSpeed": 2.0247e-320,
-              "LogRightwardSpeed": 2.0247e-320,
-              "LogDownwardSpeed": 2.0247e-320,
-              "LogUpwardSpeed": 2.0247e-320,
-              "DelayedCenterX": 2.0247e-320,
-              "DelayedCenterY": 2.0247e-320,
-              "ForecastHistoryMeanX": 2.0247e-320,
-              "ForecastHistoryMeanY": 2.0247e-320,
-              "ForecastHistoryVarianceX": 2.0247e-320,
-              "ForecastHistoryCovariance": 2.0247e-320,
-              "ForecastHistoryLinearA": 2.0247e-320,
-              "ForecastHistoryLinearB": 2.0247e-320,
-              "ForecastedX": 2.0247e-320,
-              "ForecastedY": 2.0247e-320,
-              "ProjectedNewestX": 2.0247e-320,
-              "ProjectedNewestY": 2.0247e-320,
-              "ProjectedOldestX": 2.0247e-320,
-              "ProjectedOldestY": 2.0247e-320,
-              "ForecastHistoryVarianceY": 2.0247e-320,
-              "Index": 2.0247e-320,
-              "CameraDelayCatchUpSpeed": 0,
-              "CameraExtraDelay": 2.0247e-320,
-              "WaitingSpeedXMax": 2.0247e-320,
-              "WaitingSpeedYMax": 2.0247e-320,
-              "WaitingEnd": 2.0247e-320,
-              "CameraDelayCatchUpDuration": 2.0247e-320,
-              "LeftwardSpeedMax": 9000,
-              "RightwardSpeedMax": 9000,
-              "UpwardSpeedMax": 9000,
-              "DownwardSpeedMax": 9000,
-              "OldX": 9000.000000007454,
-              "OldY": 9000.000000007454,
-              "IsCalledManually": false
-            },
-            {
-              "name": "SmoothPlatformerCamera",
-              "type": "SmoothCamera::SmoothPlatformerCamera",
-              "PlatformerCharacter": "PlatformerObject",
-              "SmoothCamera": "SmoothCamera",
-              "JumpOriginY": 1.3519747868616308e-306,
-              "AirFollowFreeAreaTop": 0,
-              "AirFollowFreeAreaBottom": 0,
-              "FloorFollowFreeAreaTop": 0,
-              "FloorFollowFreeAreaBottom": 0,
-              "AirUpwardSpeed": 0.95,
-              "AirDownwardSpeed": 0.95,
-              "FloorUpwardSpeed": 0.9,
-              "FloorDownwardSpeed": 0.9,
-              "AirUpwardSpeedMax": 9000,
-              "AirDownwardSpeedMax": 9000,
-              "FloorUpwardSpeedMax": 9000,
-              "FloorDownwardSpeedMax": 9000
-            }
-          ],
-          "animations": [
-            {
-              "name": "Run",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "metadata": "{\"pskl\":{}}",
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "tile0006.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 8,
-                            "y": 5
-                          },
-                          {
-                            "x": 22,
-                            "y": 5
-                          },
-                          {
-                            "x": 22,
-                            "y": 32
-                          },
-                          {
-                            "x": 8,
-                            "y": 32
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "tile008.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 8,
-                            "y": 5
-                          },
-                          {
-                            "x": 22,
-                            "y": 5
-                          },
-                          {
-                            "x": 22,
-                            "y": 32
-                          },
-                          {
-                            "x": 8,
-                            "y": 32
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "tile009.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 8,
-                            "y": 5
-                          },
-                          {
-                            "x": 22,
-                            "y": 5
-                          },
-                          {
-                            "x": 22,
-                            "y": 32
-                          },
-                          {
-                            "x": 8,
-                            "y": 32
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "tile0010.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 8,
-                            "y": 5
-                          },
-                          {
-                            "x": 22,
-                            "y": 5
-                          },
-                          {
-                            "x": 22,
-                            "y": 32
-                          },
-                          {
-                            "x": 8,
-                            "y": 32
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Idle",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "tile0007.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 8,
-                            "y": 5
-                          },
-                          {
-                            "x": 22,
-                            "y": 5
-                          },
-                          {
-                            "x": 22,
-                            "y": 32
-                          },
-                          {
-                            "x": 8,
-                            "y": 32
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "assetStoreId": "",
-          "name": "In",
-          "type": "PrimitiveDrawing::Drawer",
-          "variables": [],
-          "effects": [],
-          "behaviors": [
-            {
-              "name": "FlashTransitionPainter",
-              "type": "FlashTransitionPainter::FlashTransitionPainter",
-              "Progress": 0,
-              "Duration": 0,
-              "Type": "",
-              "Direction": "",
-              "MaxOpacity": 255
-            }
-          ],
-          "fillOpacity": 255,
-          "outlineSize": 1,
-          "outlineOpacity": 255,
-          "absoluteCoordinates": false,
-          "clearBetweenFrames": true,
-          "antialiasing": "none",
-          "fillColor": {
-            "r": 255,
-            "g": 255,
-            "b": 255
-          },
-          "outlineColor": {
-            "r": 0,
-            "g": 0,
-            "b": 0
-          }
-        },
-        {
-          "assetStoreId": "",
-          "name": "Out",
-          "type": "PrimitiveDrawing::Drawer",
-          "variables": [],
-          "effects": [],
-          "behaviors": [
-            {
-              "name": "FlashTransitionPainter",
-              "type": "FlashTransitionPainter::FlashTransitionPainter",
-              "Progress": 0,
-              "Duration": 0,
-              "Type": "",
-              "Direction": "",
-              "MaxOpacity": 255
-            }
-          ],
-          "fillOpacity": 255,
-          "outlineSize": 1,
-          "outlineOpacity": 255,
-          "absoluteCoordinates": false,
-          "clearBetweenFrames": true,
-          "antialiasing": "none",
-          "fillColor": {
-            "r": 255,
-            "g": 255,
-            "b": 255
-          },
-          "outlineColor": {
-            "r": 0,
-            "g": 0,
-            "b": 0
-          }
-        },
-        {
-          "assetStoreId": "f0c3d7ae6099e3b9b8beed4e30b555107550b4fb2a5879e984a014b1e06865bf",
-          "name": "Resume",
-          "type": "PanelSpriteButton::PanelSpriteButton",
-          "variant": "Transparent Button With White Blue Border5",
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "content": {
-            "LeftPadding": 0,
-            "RightPadding": 0,
-            "PressedLabelOffsetY": 4,
-            "BottomPadding": 6,
-            "TopPadding": 0,
-            "HoveredFadeOutDuration": 0,
-            "LabelText": "Resume"
-          }
-        },
-        {
-          "assetStoreId": "f0c3d7ae6099e3b9b8beed4e30b555107550b4fb2a5879e984a014b1e06865bf",
-          "name": "Restart",
-          "type": "PanelSpriteButton::PanelSpriteButton",
-          "variant": "Transparent Button With White Blue Border5",
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "content": {
-            "LeftPadding": 0,
-            "RightPadding": 0,
-            "PressedLabelOffsetY": 4,
-            "BottomPadding": 6,
-            "TopPadding": 0,
-            "HoveredFadeOutDuration": 0,
-            "LabelText": "Restart"
-          }
-        },
-        {
-          "assetStoreId": "f0c3d7ae6099e3b9b8beed4e30b555107550b4fb2a5879e984a014b1e06865bf",
-          "name": "Menu",
-          "type": "PanelSpriteButton::PanelSpriteButton",
-          "variant": "Transparent Button With White Blue Border5",
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "content": {
-            "LeftPadding": 0,
-            "RightPadding": 0,
-            "PressedLabelOffsetY": 4,
-            "BottomPadding": 6,
-            "TopPadding": 0,
-            "HoveredFadeOutDuration": 0,
-            "LabelText": "Menu"
-          }
-        },
-        {
-          "assetStoreId": "f0c3d7ae6099e3b9b8beed4e30b555107550b4fb2a5879e984a014b1e06865bf",
-          "name": "Quit",
-          "type": "PanelSpriteButton::PanelSpriteButton",
-          "variant": "Transparent Button With White Blue Border5",
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "content": {
-            "LeftPadding": 0,
-            "RightPadding": 0,
-            "PressedLabelOffsetY": 4,
-            "BottomPadding": 6,
-            "TopPadding": 0,
-            "HoveredFadeOutDuration": 0,
-            "LabelText": "Quit"
-          }
-        },
-        {
-          "assetStoreId": "0f973cf1698e1c8276bafbccdc98bf05156a93edf6f5bffa4a8d1d77fd07c194",
-          "bottomMargin": 16,
-          "height": 48,
-          "leftMargin": 16,
-          "name": "Default_TransparentPanel_30",
-          "rightMargin": 16,
-          "texture": "Default panel-transparent-center (31).png",
-          "tiled": false,
-          "topMargin": 16,
-          "type": "PanelSpriteObject::PanelSprite",
-          "width": 48,
-          "variables": [],
-          "effects": [],
-          "behaviors": []
-        },
-        {
-          "assetStoreId": "",
-          "bottomMargin": 0,
-          "height": 32,
-          "leftMargin": 0,
-          "name": "NewPanelSprite5",
-          "rightMargin": 0,
-          "texture": "bg2.png",
-          "tiled": false,
-          "topMargin": 0,
-          "type": "PanelSpriteObject::PanelSprite",
-          "width": 32,
-          "variables": [],
-          "effects": [],
-          "behaviors": []
-        },
-        {
-          "adaptCollisionMaskAutomatically": false,
-          "assetStoreId": "",
-          "name": "NewSprite4",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [
-            {
-              "name": "Platform",
-              "type": "PlatformBehavior::PlatformBehavior",
-              "canBeGrabbed": true,
-              "platformType": "NormalPlatform",
-              "yGrabOffset": 0
-            }
-          ],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "assets\\NewPanelSprite3.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 0,
-                            "y": 23.5
-                          },
-                          {
-                            "x": 32,
-                            "y": 23.5
-                          },
-                          {
-                            "x": 32,
-                            "y": 32
-                          },
-                          {
-                            "x": 0,
-                            "y": 32
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "objectsFolderStructure": {
-        "folderName": "__ROOT",
-        "children": [
-          {
-            "folderName": "Buttons",
-            "children": [
-              {
-                "objectName": "Resume"
-              },
-              {
-                "objectName": "Restart"
-              },
-              {
-                "objectName": "Menu"
-              },
-              {
-                "objectName": "Quit"
-              }
-            ]
-          },
-          {
-            "folderName": "Bg",
-            "children": [
-              {
-                "objectName": "NewSprite3"
-              },
-              {
-                "objectName": "Tree"
-              },
-              {
-                "objectName": "Tree_2"
-              }
-            ]
-          },
-          {
-            "folderName": "Importants"
-          },
-          {
-            "folderName": "Boundaries",
-            "children": [
-              {
-                "objectName": "Left_Boundaries"
-              },
-              {
-                "objectName": "Right_Boundaries"
-              },
-              {
-                "objectName": "Top_Boundaries"
-              },
-              {
-                "objectName": "Bottom_Boundaries"
-              }
-            ]
-          },
-          {
-            "objectName": "Transjakarta"
-          },
-          {
-            "objectName": "Ondel_ondel"
-          },
-          {
-            "objectName": "Default_TransparentPanel_30"
-          },
-          {
-            "objectName": "KueCucur"
-          },
-          {
-            "objectName": "Gerobak"
-          },
-          {
-            "objectName": "Sekolah"
-          },
-          {
-            "objectName": "NewSprite"
-          },
-          {
-            "objectName": "NewSprite4"
-          },
-          {
-            "objectName": "NewTiledSprite"
-          },
-          {
-            "objectName": "NewPanelSprite3"
-          },
-          {
-            "objectName": "NewPanelSprite4"
-          },
-          {
-            "objectName": "NewSprite2"
-          },
-          {
-            "objectName": "NewPanelSprite"
-          },
-          {
-            "objectName": "CLOUDBG"
-          },
-          {
-            "objectName": "Pause"
-          },
-          {
-            "objectName": "NewPanelSprite2"
-          },
-          {
-            "objectName": "Player"
-          },
-          {
-            "objectName": "In"
-          },
-          {
-            "objectName": "Out"
-          },
-          {
-            "objectName": "NewPanelSprite5"
-          }
-        ]
-      },
-      "events": [
-        {
-          "colorB": 228,
-          "colorG": 176,
-          "colorR": 74,
-          "creationTime": 0,
-          "name": "Environment",
-          "source": "",
-          "type": "BuiltinCommonInstructions::Group",
-          "events": [
-            {
-              "colorB": 228,
-              "colorG": 176,
-              "colorR": 74,
-              "creationTime": 0,
-              "name": "Menu",
-              "source": "",
-              "type": "BuiltinCommonInstructions::Group",
-              "events": [
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "ButtonStates::ButtonFSM::IsClicked"
-                      },
-                      "parameters": [
-                        "Pause",
-                        "ButtonFSM",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "BuiltinCommonInstructions::Once"
-                      },
-                      "parameters": []
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "AnimatableCapability::AnimatableBehavior::SetName"
-                      },
-                      "parameters": [
-                        "Pause",
-                        "Animation",
-                        "=",
-                        "\"play\""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "ShowLayer"
-                      },
-                      "parameters": [
-                        "",
-                        "\"Pause\""
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "ButtonStates::ButtonFSM::IsClicked"
-                      },
-                      "parameters": [
-                        "Pause",
-                        "ButtonFSM",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "AnimatableCapability::AnimatableBehavior::Name"
-                      },
-                      "parameters": [
-                        "Pause",
-                        "Animation",
-                        "=",
-                        "\"play\""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "BuiltinCommonInstructions::Once"
-                      },
-                      "parameters": []
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "AnimatableCapability::AnimatableBehavior::SetName"
-                      },
-                      "parameters": [
-                        "Pause",
-                        "Animation",
-                        "=",
-                        "\"pause\""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "HideLayer"
-                      },
-                      "parameters": [
-                        "",
-                        "\"Pause\""
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "LayerVisible"
-                      },
-                      "parameters": [
-                        "",
-                        "\"Pause\""
-                      ]
-                    }
-                  ],
-                  "actions": [],
-                  "events": [
-                    {
-                      "type": "BuiltinCommonInstructions::Standard",
-                      "conditions": [
-                        {
-                          "type": {
-                            "value": "PanelSpriteButton::PanelSpriteButton::IsClicked"
-                          },
-                          "parameters": [
-                            "Resume",
-                            ""
-                          ]
-                        }
-                      ],
-                      "actions": [
-                        {
-                          "type": {
-                            "value": "HideLayer"
-                          },
-                          "parameters": [
-                            "",
-                            "\"Pause\""
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "AnimatableCapability::AnimatableBehavior::SetName"
-                          },
-                          "parameters": [
-                            "Pause",
-                            "Animation",
-                            "=",
-                            "\"pause\""
-                          ]
-                        }
-                      ]
-                    },
-                    {
-                      "type": "BuiltinCommonInstructions::Standard",
-                      "conditions": [
-                        {
-                          "type": {
-                            "value": "PanelSpriteButton::PanelSpriteButton::IsClicked"
-                          },
-                          "parameters": [
-                            "Quit",
-                            ""
-                          ]
-                        }
-                      ],
-                      "actions": [
-                        {
-                          "type": {
-                            "value": "HideLayer"
-                          },
-                          "parameters": [
-                            "",
-                            "\"Pause\""
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "Quit"
-                          },
-                          "parameters": [
-                            ""
-                          ]
-                        }
-                      ]
-                    },
-                    {
-                      "type": "BuiltinCommonInstructions::Standard",
-                      "conditions": [
-                        {
-                          "type": {
-                            "value": "PanelSpriteButton::PanelSpriteButton::IsClicked"
-                          },
-                          "parameters": [
-                            "Menu",
-                            ""
-                          ]
-                        }
-                      ],
-                      "actions": [
-                        {
-                          "type": {
-                            "value": "HideLayer"
-                          },
-                          "parameters": [
-                            "",
-                            "\"Pause\""
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "Scene"
-                          },
-                          "parameters": [
-                            "",
-                            "\"Main Menu\"",
-                            ""
-                          ]
-                        }
-                      ]
-                    },
-                    {
-                      "type": "BuiltinCommonInstructions::Standard",
-                      "conditions": [
-                        {
-                          "type": {
-                            "value": "PanelSpriteButton::PanelSpriteButton::IsClicked"
-                          },
-                          "parameters": [
-                            "Restart",
-                            ""
-                          ]
-                        }
-                      ],
-                      "actions": [
-                        {
-                          "type": {
-                            "value": "Scene"
-                          },
-                          "parameters": [
-                            "",
-                            "\"Monas\"",
-                            ""
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ],
-              "parameters": []
-            },
-            {
-              "colorB": 228,
-              "colorG": 176,
-              "colorR": 74,
-              "creationTime": 0,
-              "name": "Background",
-              "source": "",
-              "type": "BuiltinCommonInstructions::Group",
-              "events": [
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "TiledSpriteObject::XOffset"
-                      },
-                      "parameters": [
-                        "CLOUDBG",
-                        "+",
-                        "0.5"
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "Distance"
-                      },
-                      "parameters": [
-                        "Player",
-                        "NewSprite4",
-                        "300",
-                        ""
-                      ]
-                    }
-                  ],
-                  "actions": [],
-                  "events": [
-                    {
-                      "type": "BuiltinCommonInstructions::Standard",
-                      "conditions": [
-                        {
-                          "type": {
-                            "value": "KeyFromTextPressed"
-                          },
-                          "parameters": [
-                            "Player",
-                            "\"e\""
-                          ]
-                        }
-                      ],
-                      "actions": [
-                        {
-                          "type": {
-                            "value": "Scene"
-                          },
-                          "parameters": [
-                            "",
-                            "\"Monas\"",
-                            ""
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ],
-              "parameters": []
-            }
-          ],
-          "parameters": []
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": [
-            {
-              "type": {
-                "value": "ClampCamera"
-              },
-              "parameters": [
-                "",
-                "Left_Boundaries.X() + Left_Boundaries.Width()",
-                "Top_Boundaries.Y() + Top_Boundaries.Height()",
-                "Right_Boundaries.X()",
-                "Bottom_Boundaries.Y()",
-                "",
-                ""
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "DepartScene"
-              },
-              "parameters": [
-                ""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "Wait"
-              },
-              "parameters": [
-                "1.1"
-              ]
-            },
-            {
-              "type": {
-                "value": "AnimatableCapability::AnimatableBehavior::SetName"
-              },
-              "parameters": [
-                "Transjakarta",
-                "Animation",
-                "=",
-                "\"Walk\""
-              ]
-            },
-            {
-              "type": {
-                "value": "LinearMovement::LinearMovement::SetSpeedX"
-              },
-              "parameters": [
-                "Transjakarta",
-                "LinearMovement",
-                "=",
-                "220",
-                ""
-              ]
-            }
-          ]
-        }
-      ],
-      "layers": [
-        {
-          "ambientLightColorB": 200,
-          "ambientLightColorG": 200,
-          "ambientLightColorR": 200,
-          "camera3DFarPlaneDistance": 10000,
-          "camera3DFieldOfView": 45,
-          "camera3DNearPlaneDistance": 3,
-          "cameraType": "",
-          "followBaseLayerCamera": false,
-          "isLightingLayer": false,
-          "isLocked": false,
-          "name": "Bg",
-          "renderingType": "",
-          "visibility": true,
-          "cameras": [],
-          "effects": [
-            {
-              "effectType": "Scene3D::HemisphereLight",
-              "name": "3D Ambient Hemisphere Light",
-              "doubleParameters": {
-                "elevation": 40,
-                "intensity": 0.33,
-                "rotation": 300
-              },
-              "stringParameters": {
-                "groundColor": "127;127;127",
-                "skyColor": "255;255;255",
-                "top": "Z+"
-              },
-              "booleanParameters": {}
-            },
-            {
-              "effectType": "Scene3D::DirectionalLight",
-              "name": "3D Sun Light",
-              "doubleParameters": {
-                "distanceFromCamera": 1500,
-                "elevation": 40,
-                "frustumSize": 4000,
-                "intensity": 0.75,
-                "minimumShadowBias": 0,
-                "rotation": 300
-              },
-              "stringParameters": {
-                "color": "255;255;255",
-                "shadowQuality": "medium",
-                "top": "Z+"
-              },
-              "booleanParameters": {
-                "isCastingShadow": true
-              }
-            }
-          ]
-        },
-        {
-          "ambientLightColorB": 200,
-          "ambientLightColorG": 200,
-          "ambientLightColorR": 200,
-          "camera3DFarPlaneDistance": 10000,
-          "camera3DFieldOfView": 45,
-          "camera3DNearPlaneDistance": 3,
-          "cameraType": "",
-          "followBaseLayerCamera": false,
-          "isLightingLayer": false,
-          "isLocked": false,
-          "name": "",
-          "renderingType": "",
-          "visibility": true,
-          "cameras": [
-            {
-              "defaultSize": true,
-              "defaultViewport": true,
-              "height": 0,
-              "viewportBottom": 1,
-              "viewportLeft": 0,
-              "viewportRight": 1,
-              "viewportTop": 0,
-              "width": 0
-            }
-          ],
-          "effects": [
-            {
-              "effectType": "Scene3D::HemisphereLight",
-              "name": "3D Ambient Hemisphere Light",
-              "doubleParameters": {
-                "elevation": 40,
-                "intensity": 0.33,
-                "rotation": 300
-              },
-              "stringParameters": {
-                "groundColor": "127;127;127",
-                "skyColor": "255;255;255",
-                "top": "Z+"
-              },
-              "booleanParameters": {}
-            },
-            {
-              "effectType": "Scene3D::DirectionalLight",
-              "name": "3D Sun Light",
-              "doubleParameters": {
-                "distanceFromCamera": 1500,
-                "elevation": 40,
-                "frustumSize": 4000,
-                "intensity": 0.75,
-                "minimumShadowBias": 0,
-                "rotation": 300
-              },
-              "stringParameters": {
-                "color": "255;255;255",
-                "shadowQuality": "medium",
-                "top": "Z+"
-              },
-              "booleanParameters": {
-                "isCastingShadow": true
-              }
-            }
-          ]
-        },
-        {
-          "ambientLightColorB": 200,
-          "ambientLightColorG": 200,
-          "ambientLightColorR": 200,
-          "camera3DFarPlaneDistance": 10000,
-          "camera3DFieldOfView": 45,
-          "camera3DNearPlaneDistance": 3,
-          "cameraType": "",
-          "followBaseLayerCamera": false,
-          "isLightingLayer": false,
-          "isLocked": false,
-          "name": "UI",
-          "renderingType": "",
-          "visibility": true,
-          "cameras": [],
-          "effects": [
-            {
-              "effectType": "Scene3D::HemisphereLight",
-              "name": "3D Ambient Hemisphere Light",
-              "doubleParameters": {
-                "elevation": 40,
-                "intensity": 0.33,
-                "rotation": 300
-              },
-              "stringParameters": {
-                "groundColor": "127;127;127",
-                "skyColor": "255;255;255",
-                "top": "Z+"
-              },
-              "booleanParameters": {}
-            },
-            {
-              "effectType": "Scene3D::DirectionalLight",
-              "name": "3D Sun Light",
-              "doubleParameters": {
-                "distanceFromCamera": 1500,
-                "elevation": 40,
-                "frustumSize": 4000,
-                "intensity": 0.75,
-                "minimumShadowBias": 0,
-                "rotation": 300
-              },
-              "stringParameters": {
-                "color": "255;255;255",
-                "shadowQuality": "medium",
-                "top": "Z+"
-              },
-              "booleanParameters": {
-                "isCastingShadow": true
-              }
-            }
-          ]
-        },
-        {
-          "ambientLightColorB": 200,
-          "ambientLightColorG": 200,
-          "ambientLightColorR": 200,
-          "camera3DFarPlaneDistance": 10000,
-          "camera3DFieldOfView": 45,
-          "camera3DNearPlaneDistance": 3,
-          "cameraType": "",
-          "followBaseLayerCamera": false,
-          "isLightingLayer": false,
-          "isLocked": false,
-          "name": "Dialogue1",
-          "renderingType": "",
-          "visibility": true,
-          "cameras": [],
-          "effects": [
-            {
-              "effectType": "Scene3D::HemisphereLight",
-              "name": "3D Ambient Hemisphere Light",
-              "doubleParameters": {
-                "elevation": 40,
-                "intensity": 0.33,
-                "rotation": 300
-              },
-              "stringParameters": {
-                "groundColor": "127;127;127",
-                "skyColor": "255;255;255",
-                "top": "Z+"
-              },
-              "booleanParameters": {}
-            },
-            {
-              "effectType": "Scene3D::DirectionalLight",
-              "name": "3D Sun Light",
-              "doubleParameters": {
-                "distanceFromCamera": 1500,
-                "elevation": 40,
-                "frustumSize": 4000,
-                "intensity": 0.75,
-                "minimumShadowBias": 0,
-                "rotation": 300
-              },
-              "stringParameters": {
-                "color": "255;255;255",
-                "shadowQuality": "medium",
-                "top": "Z+"
-              },
-              "booleanParameters": {
-                "isCastingShadow": true
-              }
-            }
-          ]
-        },
-        {
-          "ambientLightColorB": 200,
-          "ambientLightColorG": 200,
-          "ambientLightColorR": 200,
-          "camera3DFarPlaneDistance": 10000,
-          "camera3DFieldOfView": 45,
-          "camera3DNearPlaneDistance": 3,
-          "cameraType": "",
-          "followBaseLayerCamera": false,
-          "isLightingLayer": false,
-          "isLocked": false,
-          "name": "Dialogue2",
-          "renderingType": "",
-          "visibility": true,
-          "cameras": [],
-          "effects": [
-            {
-              "effectType": "Scene3D::HemisphereLight",
-              "name": "3D Ambient Hemisphere Light",
-              "doubleParameters": {
-                "elevation": 40,
-                "intensity": 0.33,
-                "rotation": 300
-              },
-              "stringParameters": {
-                "groundColor": "127;127;127",
-                "skyColor": "255;255;255",
-                "top": "Z+"
-              },
-              "booleanParameters": {}
-            },
-            {
-              "effectType": "Scene3D::DirectionalLight",
-              "name": "3D Sun Light",
-              "doubleParameters": {
-                "distanceFromCamera": 1500,
-                "elevation": 40,
-                "frustumSize": 4000,
-                "intensity": 0.75,
-                "minimumShadowBias": 0,
-                "rotation": 300
-              },
-              "stringParameters": {
-                "color": "255;255;255",
-                "shadowQuality": "medium",
-                "top": "Z+"
-              },
-              "booleanParameters": {
-                "isCastingShadow": true
-              }
-            }
-          ]
-        },
-        {
-          "ambientLightColorB": 200,
-          "ambientLightColorG": 200,
-          "ambientLightColorR": 200,
-          "camera3DFarPlaneDistance": 10000,
-          "camera3DFieldOfView": 45,
-          "camera3DNearPlaneDistance": 3,
-          "cameraType": "",
-          "followBaseLayerCamera": false,
-          "isLightingLayer": false,
-          "isLocked": false,
-          "name": "Dialogue3",
-          "renderingType": "",
-          "visibility": true,
-          "cameras": [],
-          "effects": [
-            {
-              "effectType": "Scene3D::HemisphereLight",
-              "name": "3D Ambient Hemisphere Light",
-              "doubleParameters": {
-                "elevation": 40,
-                "intensity": 0.33,
-                "rotation": 300
-              },
-              "stringParameters": {
-                "groundColor": "127;127;127",
-                "skyColor": "255;255;255",
-                "top": "Z+"
-              },
-              "booleanParameters": {}
-            },
-            {
-              "effectType": "Scene3D::DirectionalLight",
-              "name": "3D Sun Light",
-              "doubleParameters": {
-                "distanceFromCamera": 1500,
-                "elevation": 40,
-                "frustumSize": 4000,
-                "intensity": 0.75,
-                "minimumShadowBias": 0,
-                "rotation": 300
-              },
-              "stringParameters": {
-                "color": "255;255;255",
-                "shadowQuality": "medium",
-                "top": "Z+"
-              },
-              "booleanParameters": {
-                "isCastingShadow": true
-              }
-            }
-          ]
-        },
-        {
-          "ambientLightColorB": 200,
-          "ambientLightColorG": 200,
-          "ambientLightColorR": 200,
-          "camera3DFarPlaneDistance": 10000,
-          "camera3DFieldOfView": 45,
-          "camera3DNearPlaneDistance": 3,
-          "cameraType": "",
-          "followBaseLayerCamera": false,
-          "isLightingLayer": false,
-          "isLocked": false,
-          "name": "Dialogue4",
-          "renderingType": "",
-          "visibility": true,
-          "cameras": [],
-          "effects": [
-            {
-              "effectType": "Scene3D::HemisphereLight",
-              "name": "3D Ambient Hemisphere Light",
-              "doubleParameters": {
-                "elevation": 40,
-                "intensity": 0.33,
-                "rotation": 300
-              },
-              "stringParameters": {
-                "groundColor": "127;127;127",
-                "skyColor": "255;255;255",
-                "top": "Z+"
-              },
-              "booleanParameters": {}
-            },
-            {
-              "effectType": "Scene3D::DirectionalLight",
-              "name": "3D Sun Light",
-              "doubleParameters": {
-                "distanceFromCamera": 1500,
-                "elevation": 40,
-                "frustumSize": 4000,
-                "intensity": 0.75,
-                "minimumShadowBias": 0,
-                "rotation": 300
-              },
-              "stringParameters": {
-                "color": "255;255;255",
-                "shadowQuality": "medium",
-                "top": "Z+"
-              },
-              "booleanParameters": {
-                "isCastingShadow": true
-              }
-            }
-          ]
-        },
-        {
-          "ambientLightColorB": 200,
-          "ambientLightColorG": 200,
-          "ambientLightColorR": 200,
-          "camera3DFarPlaneDistance": 10000,
-          "camera3DFieldOfView": 45,
-          "camera3DNearPlaneDistance": 3,
-          "cameraType": "",
-          "followBaseLayerCamera": false,
-          "isLightingLayer": false,
-          "isLocked": false,
-          "name": "Pause",
-          "renderingType": "",
-          "visibility": false,
-          "cameras": [],
-          "effects": [
-            {
-              "effectType": "Scene3D::HemisphereLight",
-              "name": "3D Ambient Hemisphere Light",
-              "doubleParameters": {
-                "elevation": 40,
-                "intensity": 0.33,
-                "rotation": 300
-              },
-              "stringParameters": {
-                "groundColor": "127;127;127",
-                "skyColor": "255;255;255",
-                "top": "Z+"
-              },
-              "booleanParameters": {}
-            },
-            {
-              "effectType": "Scene3D::DirectionalLight",
-              "name": "3D Sun Light",
-              "doubleParameters": {
-                "distanceFromCamera": 1500,
-                "elevation": 40,
-                "frustumSize": 4000,
-                "intensity": 0.75,
-                "minimumShadowBias": 0,
-                "rotation": 300
-              },
-              "stringParameters": {
-                "color": "255;255;255",
-                "shadowQuality": "medium",
-                "top": "Z+"
-              },
-              "booleanParameters": {
-                "isCastingShadow": true
-              }
-            }
-          ]
-        },
-        {
-          "ambientLightColorB": 200,
-          "ambientLightColorG": 200,
-          "ambientLightColorR": 200,
-          "camera3DFarPlaneDistance": 10000,
-          "camera3DFieldOfView": 45,
-          "camera3DNearPlaneDistance": 3,
-          "cameraType": "",
-          "followBaseLayerCamera": false,
-          "isLightingLayer": false,
-          "isLocked": false,
-          "name": "Interact",
-          "renderingType": "",
-          "visibility": true,
-          "cameras": [],
-          "effects": [
-            {
-              "effectType": "Scene3D::HemisphereLight",
-              "name": "3D Ambient Hemisphere Light",
-              "doubleParameters": {
-                "elevation": 40,
-                "intensity": 0.33,
-                "rotation": 300
-              },
-              "stringParameters": {
-                "groundColor": "127;127;127",
-                "skyColor": "255;255;255",
-                "top": "Z+"
-              },
-              "booleanParameters": {}
-            },
-            {
-              "effectType": "Scene3D::DirectionalLight",
-              "name": "3D Sun Light",
-              "doubleParameters": {
-                "distanceFromCamera": 1500,
-                "elevation": 40,
-                "frustumSize": 4000,
-                "intensity": 0.75,
-                "minimumShadowBias": 0,
-                "rotation": 300
-              },
-              "stringParameters": {
-                "color": "255;255;255",
-                "shadowQuality": "medium",
-                "top": "Z+"
-              },
-              "booleanParameters": {
-                "isCastingShadow": true
-              }
-            }
-          ]
-        }
-      ],
-      "behaviorsSharedData": [
-        {
-          "name": "Animation",
-          "type": "AnimatableCapability::AnimatableBehavior"
-        },
-        {
-          "name": "ButtonFSM",
-          "type": "ButtonStates::ButtonFSM"
-        },
-        {
-          "name": "Effect",
-          "type": "EffectCapability::EffectBehavior"
-        },
-        {
-          "name": "FlashTransitionPainter",
-          "type": "FlashTransitionPainter::FlashTransitionPainter"
-        },
-        {
-          "name": "Flippable",
-          "type": "FlippableCapability::FlippableBehavior"
-        },
-        {
-          "name": "LinearMovement",
-          "type": "LinearMovement::LinearMovement"
-        },
-        {
-          "name": "Opacity",
-          "type": "OpacityCapability::OpacityBehavior"
-        },
-        {
-          "name": "Platform",
-          "type": "PlatformBehavior::PlatformBehavior"
-        },
-        {
-          "name": "PlatformerCharacterAnimator",
-          "type": "PlatformerCharacterAnimator::PlatformerCharacterAnimator"
-        },
-        {
-          "name": "PlatformerObject",
-          "type": "PlatformBehavior::PlatformerObjectBehavior"
-        },
-        {
-          "name": "Resizable",
-          "type": "ResizableCapability::ResizableBehavior"
-        },
-        {
-          "name": "Scale",
-          "type": "ScalableCapability::ScalableBehavior"
-        },
-        {
-          "name": "SmoothCamera",
-          "type": "SmoothCamera::SmoothCamera"
-        },
-        {
-          "name": "SmoothPlatformerCamera",
-          "type": "SmoothCamera::SmoothPlatformerCamera"
-        }
-      ]
-    },
-    {
       "b": 209,
       "disableInputWhenNotFocused": true,
       "mangledName": "Monas",
@@ -12252,7 +9989,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 0.433577430470248,
+        "zoomFactor": 0.39251611754883187,
         "windowMask": false
       },
       "objectsGroups": [
@@ -12467,8 +10204,8 @@
           "name": "Player",
           "persistentUuid": "b2996c7f-6201-41e6-943d-71c3fed5ccd3",
           "width": 128,
-          "x": 32,
-          "y": 480,
+          "x": 160,
+          "y": 448,
           "zOrder": 93,
           "numberProperties": [],
           "stringProperties": [],
@@ -12799,14 +10536,14 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 192,
+          "height": 160,
           "keepRatio": true,
           "layer": "",
           "name": "NpcJlan",
           "persistentUuid": "6b0cce5d-4efc-4376-87f2-6cad6813a243",
-          "width": 160,
+          "width": 128,
           "x": 1760,
-          "y": 416,
+          "y": 448,
           "zOrder": 94,
           "numberProperties": [],
           "stringProperties": [],
@@ -13472,7 +11209,7 @@
           "assetStoreId": "",
           "height": 32,
           "name": "CLOUDBG",
-          "texture": "AWN.png",
+          "texture": "assets\\Free-Sky-with-Clouds-Background-Pixel-Art9.jpg3.png5",
           "type": "TiledSpriteObject::TiledSprite",
           "width": 32,
           "variables": [],
@@ -13498,18 +11235,6 @@
                 "color": "0;0;0"
               },
               "booleanParameters": {}
-            }
-          ],
-          "behaviors": [
-            {
-              "name": "ButtonFSM",
-              "type": "ButtonStates::ButtonFSM",
-              "ShouldCheckHovering": true,
-              "State": "Idle",
-              "TouchId": 0,
-              "TouchIsInside": false,
-              "MouseIsInside": false,
-              "Index": 2.0247e-320
             }
           ],
           "behaviors": [
@@ -14101,7 +11826,670 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "tile0005.png",
+                      "image": "11.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 5
+                          },
+                          {
+                            "x": 22,
+                            "y": 5
+                          },
+                          {
+                            "x": 22,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "11.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 5
+                          },
+                          {
+                            "x": 22,
+                            "y": 5
+                          },
+                          {
+                            "x": 22,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "12.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 5
+                          },
+                          {
+                            "x": 22,
+                            "y": 5
+                          },
+                          {
+                            "x": 22,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "13.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 5
+                          },
+                          {
+                            "x": 22,
+                            "y": 5
+                          },
+                          {
+                            "x": 22,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Jump",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "8.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 5
+                          },
+                          {
+                            "x": 22,
+                            "y": 5
+                          },
+                          {
+                            "x": 22,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "9.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 5
+                          },
+                          {
+                            "x": 22,
+                            "y": 5
+                          },
+                          {
+                            "x": 22,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "10.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 5
+                          },
+                          {
+                            "x": 22,
+                            "y": 5
+                          },
+                          {
+                            "x": 22,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "RunGirl",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Player5",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 5
+                          },
+                          {
+                            "x": 22,
+                            "y": 5
+                          },
+                          {
+                            "x": 22,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Player6",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 5
+                          },
+                          {
+                            "x": 22,
+                            "y": 5
+                          },
+                          {
+                            "x": 22,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Player7",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 5
+                          },
+                          {
+                            "x": 22,
+                            "y": 5
+                          },
+                          {
+                            "x": 22,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Player8",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 5
+                          },
+                          {
+                            "x": 22,
+                            "y": 5
+                          },
+                          {
+                            "x": 22,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "IdleGirl",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Player9",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 5
+                          },
+                          {
+                            "x": 22,
+                            "y": 5
+                          },
+                          {
+                            "x": 22,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Player10",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 5
+                          },
+                          {
+                            "x": 22,
+                            "y": 5
+                          },
+                          {
+                            "x": 22,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Player11",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 5
+                          },
+                          {
+                            "x": 22,
+                            "y": 5
+                          },
+                          {
+                            "x": 22,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Player12",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 5
+                          },
+                          {
+                            "x": 22,
+                            "y": 5
+                          },
+                          {
+                            "x": 22,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "JumpGirl",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Player13",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 5
+                          },
+                          {
+                            "x": 22,
+                            "y": 5
+                          },
+                          {
+                            "x": 22,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Player14",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 5
+                          },
+                          {
+                            "x": 22,
+                            "y": 5
+                          },
+                          {
+                            "x": 22,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Player15",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -15096,263 +13484,6 @@
               "colorG": 176,
               "colorR": 74,
               "creationTime": 0,
-              "name": "Menu",
-              "source": "",
-              "type": "BuiltinCommonInstructions::Group",
-              "events": [
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "ButtonStates::ButtonFSM::IsClicked"
-                      },
-                      "parameters": [
-                        "Pause",
-                        "ButtonFSM",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "BuiltinCommonInstructions::Once"
-                      },
-                      "parameters": []
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "AnimatableCapability::AnimatableBehavior::SetName"
-                      },
-                      "parameters": [
-                        "Pause",
-                        "Animation",
-                        "=",
-                        "\"play\""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "ShowLayer"
-                      },
-                      "parameters": [
-                        "",
-                        "\"Pause\""
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "ButtonStates::ButtonFSM::IsClicked"
-                      },
-                      "parameters": [
-                        "Pause",
-                        "ButtonFSM",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "AnimatableCapability::AnimatableBehavior::Name"
-                      },
-                      "parameters": [
-                        "Pause",
-                        "Animation",
-                        "=",
-                        "\"play\""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "BuiltinCommonInstructions::Once"
-                      },
-                      "parameters": []
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "AnimatableCapability::AnimatableBehavior::SetName"
-                      },
-                      "parameters": [
-                        "Pause",
-                        "Animation",
-                        "=",
-                        "\"pause\""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "HideLayer"
-                      },
-                      "parameters": [
-                        "",
-                        "\"Pause\""
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "LayerVisible"
-                      },
-                      "parameters": [
-                        "",
-                        "\"Pause\""
-                      ]
-                    }
-                  ],
-                  "actions": [],
-                  "events": [
-                    {
-                      "type": "BuiltinCommonInstructions::Standard",
-                      "conditions": [
-                        {
-                          "type": {
-                            "value": "PanelSpriteButton::PanelSpriteButton::IsClicked"
-                          },
-                          "parameters": [
-                            "Resume",
-                            ""
-                          ]
-                        }
-                      ],
-                      "actions": [
-                        {
-                          "type": {
-                            "value": "HideLayer"
-                          },
-                          "parameters": [
-                            "",
-                            "\"Pause\""
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "AnimatableCapability::AnimatableBehavior::SetName"
-                          },
-                          "parameters": [
-                            "Pause",
-                            "Animation",
-                            "=",
-                            "\"pause\""
-                          ]
-                        }
-                      ]
-                    },
-                    {
-                      "type": "BuiltinCommonInstructions::Standard",
-                      "conditions": [
-                        {
-                          "type": {
-                            "value": "PanelSpriteButton::PanelSpriteButton::IsClicked"
-                          },
-                          "parameters": [
-                            "Quit",
-                            ""
-                          ]
-                        }
-                      ],
-                      "actions": [
-                        {
-                          "type": {
-                            "value": "HideLayer"
-                          },
-                          "parameters": [
-                            "",
-                            "\"Pause\""
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "Quit"
-                          },
-                          "parameters": [
-                            ""
-                          ]
-                        }
-                      ]
-                    },
-                    {
-                      "type": "BuiltinCommonInstructions::Standard",
-                      "conditions": [
-                        {
-                          "type": {
-                            "value": "PanelSpriteButton::PanelSpriteButton::IsClicked"
-                          },
-                          "parameters": [
-                            "Menu",
-                            ""
-                          ]
-                        }
-                      ],
-                      "actions": [
-                        {
-                          "type": {
-                            "value": "HideLayer"
-                          },
-                          "parameters": [
-                            "",
-                            "\"Pause\""
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "Scene"
-                          },
-                          "parameters": [
-                            "",
-                            "\"Main Menu\"",
-                            ""
-                          ]
-                        }
-                      ]
-                    },
-                    {
-                      "type": "BuiltinCommonInstructions::Standard",
-                      "conditions": [
-                        {
-                          "type": {
-                            "value": "PanelSpriteButton::PanelSpriteButton::IsClicked"
-                          },
-                          "parameters": [
-                            "Restart",
-                            ""
-                          ]
-                        }
-                      ],
-                      "actions": [
-                        {
-                          "type": {
-                            "value": "Scene"
-                          },
-                          "parameters": [
-                            "",
-                            "\"Monas\"",
-                            ""
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ],
-              "parameters": []
-            },
-            {
-              "colorB": 228,
-              "colorG": 176,
-              "colorR": 74,
-              "creationTime": 0,
-              "folded": true,
               "name": "Background",
               "source": "",
               "type": "BuiltinCommonInstructions::Group",
@@ -15961,38 +14092,6 @@
               ]
             }
           ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "DepartScene"
-              },
-              "parameters": [
-                ""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "PlayMusic"
-              },
-              "parameters": [
-                "",
-                "RILEKSASI - Instumen Musik Lagu Daerah BETAWI 6 No Copyright.mp3",
-                "",
-                "20",
-                ""
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": []
         }
       ],
       "layers": [
@@ -16391,7 +14490,7 @@
           "isLocked": false,
           "name": "Pause",
           "renderingType": "",
-          "visibility": true,
+          "visibility": false,
           "cameras": [],
           "effects": [
             {
