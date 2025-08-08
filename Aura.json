@@ -1338,387 +1338,23 @@
         "userAdded": false
       },
       {
-        "file": "RILEKSASI - Instumen Musik BETAWI #6  No Copyright.mp3",
+        "file": "Free Backsound Jawa - Happy Javanese Backsound.mp3",
         "kind": "audio",
         "metadata": "",
-        "name": "RILEKSASI - Instumen Musik BETAWI #6  No Copyright.mp3",
+        "name": "Free Backsound Jawa - Happy Javanese Backsound.mp3",
         "preloadAsMusic": false,
         "preloadAsSound": false,
         "preloadInCache": false,
         "userAdded": false
       },
       {
-        "file": "RILEKSASI - Instumen Musik BETAWI #6  No Copyright2.mp3",
+        "file": "RILEKSASI - Instumen Musik Lagu Daerah BETAWI 6 No Copyright.mp3",
         "kind": "audio",
         "metadata": "",
-        "name": "RILEKSASI - Instumen Musik BETAWI #6  No Copyright2.mp3",
+        "name": "RILEKSASI - Instumen Musik Lagu Daerah BETAWI 6 No Copyright.mp3",
         "preloadAsMusic": false,
         "preloadAsSound": false,
         "preloadInCache": false,
-        "userAdded": false
-      },
-      {
-        "file": "bel-sekolah-153453.mp3",
-        "kind": "audio",
-        "metadata": "",
-        "name": "bel-sekolah-153453.mp3",
-        "preloadAsMusic": false,
-        "preloadAsSound": false,
-        "preloadInCache": false,
-        "userAdded": false
-      },
-      {
-        "file": "Free-Sky-with-Clouds-Background-Pixel-Art8.jpg",
-        "kind": "image",
-        "metadata": "",
-        "name": "Free-Sky-with-Clouds-Background-Pixel-Art8.jpg",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "Free-Sky-with-Clouds-Background-Pixel-Art9.jpg",
-        "kind": "image",
-        "metadata": "",
-        "name": "Free-Sky-with-Clouds-Background-Pixel-Art9.jpg",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Free-Sky-with-Clouds-Background-Pixel-Art9.jpg2.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
-        "name": "Free-Sky-with-Clouds-Background-Pixel-Art9.jpg2",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Free-Sky-with-Clouds-Background-Pixel-Art9.jpg3.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
-        "name": "Free-Sky-with-Clouds-Background-Pixel-Art9.jpg3",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "Free-Sky-with-Clouds-Background-Pixel-Art10.jpg",
-        "kind": "image",
-        "metadata": "{\"localFilePath\":\"Free-Sky-with-Clouds-Background-Pixel-Art10.jpg\",\"extension\":\".png\",\"pskl\":{}}",
-        "name": "Free-Sky-with-Clouds-Background-Pixel-Art10.jpg",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/NewPanelSprite.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
-        "name": "NewPanelSprite",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "istockphoto-1267402977-170667a.jpg",
-        "kind": "image",
-        "metadata": "",
-        "name": "istockphoto-1267402977-170667a.jpg",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/NewPanelSprite.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets\\NewPanelSprite.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/NewSprite7.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite7",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/NewSprite8.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite8",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/NewSprite9.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite9",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/NewSprite10.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite10",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/tile0008.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "tile0008",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/tile00019.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "tile00019",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/tile00020.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "tile00020",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/tile00021.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "tile00021",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "1.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "2.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "2.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "3.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "3.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "4.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "4.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "5.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "5.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "6.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "6.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "7.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "7.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "WProtoIdle.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "WProtoIdle.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/WProtoIdle.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "WProtoIdle",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/WProtoIdle2.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "WProtoIdle2",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/WProtoIdle3.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "WProtoIdle3",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/WProtoIdle4.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "WProtoIdle4",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Player.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Player",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Player2.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Player2",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Player3.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Player3",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/Player4.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Player4",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "WProtoJump.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "WProtoJump.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/WProtoJump.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "WProtoJump",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/WProtoJump2.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "WProtoJump2",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/WProtoJump3.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "WProtoJump3",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/NewSprite5.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite5.png\"}",
-        "name": "NewSprite5",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/NewSprite11.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite11",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/NewSprite12.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite12.png\"}",
-        "name": "NewSprite12",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "assets/NewSprite13.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite13",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "PixelifySans-VariableFont_wght12.ttf",
-        "kind": "font",
-        "metadata": "",
-        "name": "PixelifySans-VariableFont_wght12.ttf",
-        "userAdded": false
-      },
-      {
-        "file": "assets/Bush foreground.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Bush foreground.png",
-        "smoothed": false,
-        "userAdded": false,
-        "origin": {
-          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Platformer Pack/Plant/dc11dc67c2107cdfeabfe2391f8f3b78a86e0274e3497cc9e8181cc6df4c2897_Bush foreground.png",
-          "name": "Bush foreground.png"
-        }
-      },
-      {
-        "file": "assets/Bush foreground2.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Bush foreground",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "PixelifySans-VariableFont_wght13.ttf",
-        "kind": "font",
-        "metadata": "",
-        "name": "PixelifySans-VariableFont_wght13.ttf",
         "userAdded": false
       }
     ],
@@ -1751,7 +1387,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 0.3010461197182462,
+        "zoomFactor": 0.5653158055126318,
         "windowMask": false
       },
       "objectsGroups": [
@@ -3043,6 +2679,33 @@
                 "Effect",
                 "\"Effect\"",
                 "no"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "DepartScene"
+              },
+              "parameters": [
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PlayMusic"
+              },
+              "parameters": [
+                "",
+                "Free Backsound Jawa - Happy Javanese Backsound.mp3",
+                "",
+                "25",
+                ""
               ]
             }
           ]
@@ -4866,151 +4529,13 @@
               ],
               "events": [
                 {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "BuiltinCommonInstructions::Once"
-                      },
-                      "parameters": []
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "LinearMovement::LinearMovement::SetSpeedX"
-                      },
-                      "parameters": [
-                        "NewSprite3",
-                        "LinearMovement",
-                        "=",
-                        "30",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "Wait"
-                      },
-                      "parameters": [
-                        "1.2"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "LinearMovement::LinearMovement::SetSpeedX"
-                      },
-                      "parameters": [
-                        "NewSprite3",
-                        "LinearMovement",
-                        "=",
-                        "180",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "Wait"
-                      },
-                      "parameters": [
-                        "2"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "LinearMovement::LinearMovement::SetSpeedX"
-                      },
-                      "parameters": [
-                        "NewSprite3",
-                        "LinearMovement",
-                        "=",
-                        "0",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "MettreX"
-                      },
-                      "parameters": [
-                        "NewSprite3",
-                        "+",
-                        "40"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "Wait"
-                      },
-                      "parameters": [
-                        "1"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "LinearMovement::LinearMovement::SetSpeedX"
-                      },
-                      "parameters": [
-                        "NewSprite3",
-                        "LinearMovement",
-                        "=",
-                        "180",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "Wait"
-                      },
-                      "parameters": [
-                        "1.6"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "LinearMovement::LinearMovement::SetSpeedX"
-                      },
-                      "parameters": [
-                        "NewSprite3",
-                        "LinearMovement",
-                        "=",
-                        "0",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "FlashTransitionPainter::FlashTransitionPainter::PaintEffect"
-                      },
-                      "parameters": [
-                        "Out",
-                        "FlashTransitionPainter",
-                        "\"0;0;0\"",
-                        "1",
-                        "\"Circular\"",
-                        "\"Forward\"",
-                        "",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "Wait"
-                      },
-                      "parameters": [
-                        "1"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "Scene"
-                      },
-                      "parameters": [
-                        "",
-                        "\"Monas\"",
-                        ""
-                      ]
-                    }
+                  "type": {
+                    "value": "Scene"
+                  },
+                  "parameters": [
+                    "",
+                    "\"TurunTJ\"",
+                    ""
                   ]
                 }
               ]
@@ -5144,7 +4669,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 0.8141881203710093,
+        "zoomFactor": 0.7130377630690545,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -6533,20 +6058,7 @@
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [],
-          "effects": [
-            {
-              "effectType": "Outline",
-              "name": "Effect",
-              "doubleParameters": {
-                "padding": 0,
-                "thickness": 3
-              },
-              "stringParameters": {
-                "color": "0;0;0"
-              },
-              "booleanParameters": {}
-            }
-          ],
+          "effects": [],
           "behaviors": [
             {
               "name": "ButtonFSM",
@@ -8336,6 +7848,262 @@
                 }
               ],
               "parameters": []
+            },
+            {
+              "colorB": 228,
+              "colorG": 176,
+              "colorR": 74,
+              "creationTime": 0,
+              "name": "Menu",
+              "source": "",
+              "type": "BuiltinCommonInstructions::Group",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "ButtonStates::ButtonFSM::IsClicked"
+                      },
+                      "parameters": [
+                        "Pause",
+                        "ButtonFSM",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                      },
+                      "parameters": [
+                        "Pause",
+                        "Animation",
+                        "=",
+                        "\"play\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "ShowLayer"
+                      },
+                      "parameters": [
+                        "",
+                        "\"Pause\""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "ButtonStates::ButtonFSM::IsClicked"
+                      },
+                      "parameters": [
+                        "Pause",
+                        "ButtonFSM",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "AnimatableCapability::AnimatableBehavior::Name"
+                      },
+                      "parameters": [
+                        "Pause",
+                        "Animation",
+                        "=",
+                        "\"play\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                      },
+                      "parameters": [
+                        "Pause",
+                        "Animation",
+                        "=",
+                        "\"pause\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "HideLayer"
+                      },
+                      "parameters": [
+                        "",
+                        "\"Pause\""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "LayerVisible"
+                      },
+                      "parameters": [
+                        "",
+                        "\"Pause\""
+                      ]
+                    }
+                  ],
+                  "actions": [],
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "PanelSpriteButton::PanelSpriteButton::IsClicked"
+                          },
+                          "parameters": [
+                            "Resume",
+                            ""
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "HideLayer"
+                          },
+                          "parameters": [
+                            "",
+                            "\"Pause\""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                          },
+                          "parameters": [
+                            "Pause",
+                            "Animation",
+                            "=",
+                            "\"pause\""
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "PanelSpriteButton::PanelSpriteButton::IsClicked"
+                          },
+                          "parameters": [
+                            "Quit",
+                            ""
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "HideLayer"
+                          },
+                          "parameters": [
+                            "",
+                            "\"Pause\""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Quit"
+                          },
+                          "parameters": [
+                            ""
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "PanelSpriteButton::PanelSpriteButton::IsClicked"
+                          },
+                          "parameters": [
+                            "Menu",
+                            ""
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "HideLayer"
+                          },
+                          "parameters": [
+                            "",
+                            "\"Pause\""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Scene"
+                          },
+                          "parameters": [
+                            "",
+                            "\"Main Menu\"",
+                            ""
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "PanelSpriteButton::PanelSpriteButton::IsClicked"
+                          },
+                          "parameters": [
+                            "Restart",
+                            ""
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "Scene"
+                          },
+                          "parameters": [
+                            "",
+                            "\"Sekolah\"",
+                            ""
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "parameters": []
             }
           ],
           "parameters": []
@@ -8359,11 +8127,6 @@
               ]
             }
           ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": []
         },
         {
           "colorB": 228,
@@ -8955,444 +8718,31 @@
           "parameters": []
         },
         {
-          "colorB": 228,
-          "colorG": 176,
-          "colorR": 74,
-          "creationTime": 0,
-          "folded": true,
-          "name": "Pause_Layer",
-          "source": "",
-          "type": "BuiltinCommonInstructions::Group",
-          "events": [
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
             {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "ButtonStates::ButtonFSM::IsClicked"
-                  },
-                  "parameters": [
-                    "Pause",
-                    "ButtonFSM",
-                    ""
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "ShowLayer"
-                  },
-                  "parameters": [
-                    "",
-                    "\"Pause\""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
-                  },
-                  "parameters": [
-                    "Pause",
-                    "Animation",
-                    "=",
-                    "\"play\""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "ActivateBehavior"
-                  },
-                  "parameters": [
-                    "Player",
-                    "PlatformerObject",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "ChangeTimeScale"
-                  },
-                  "parameters": [
-                    "",
-                    "0"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "PanelSpriteButton::PanelSpriteButton::Activate"
-                  },
-                  "parameters": [
-                    "Quit",
-                    "yes",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "PanelSpriteButton::PanelSpriteButton::Activate"
-                  },
-                  "parameters": [
-                    "Resume",
-                    "yes",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "PanelSpriteButton::PanelSpriteButton::Activate"
-                  },
-                  "parameters": [
-                    "Menu",
-                    "yes",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "PanelSpriteButton::PanelSpriteButton::Activate"
-                  },
-                  "parameters": [
-                    "Restart",
-                    "yes",
-                    ""
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "DepartScene"
-                  },
-                  "parameters": [
-                    ""
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "PanelSpriteButton::PanelSpriteButton::Activate"
-                  },
-                  "parameters": [
-                    "Restart",
-                    "no",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "PanelSpriteButton::PanelSpriteButton::Activate"
-                  },
-                  "parameters": [
-                    "Resume",
-                    "no",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "PanelSpriteButton::PanelSpriteButton::Activate"
-                  },
-                  "parameters": [
-                    "Quit",
-                    "no",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "PanelSpriteButton::PanelSpriteButton::Activate"
-                  },
-                  "parameters": [
-                    "Menu",
-                    "no",
-                    ""
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "PanelSpriteButton::PanelSpriteButton::IsClicked"
-                  },
-                  "parameters": [
-                    "Resume",
-                    ""
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "ShowLayer"
-                  },
-                  "parameters": [
-                    "",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "HideLayer"
-                  },
-                  "parameters": [
-                    "",
-                    "\"Pause\""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "UnPauseTimer"
-                  },
-                  "parameters": [
-                    "",
-                    "\"Timer2\""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
-                  },
-                  "parameters": [
-                    "Pause",
-                    "Animation",
-                    "=",
-                    "\"pause\""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "ActivateBehavior"
-                  },
-                  "parameters": [
-                    "Player",
-                    "PlatformerObject",
-                    "yes"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "ChangeTimeScale"
-                  },
-                  "parameters": [
-                    "",
-                    "1"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "PanelSpriteButton::PanelSpriteButton::Activate"
-                  },
-                  "parameters": [
-                    "Restart",
-                    "no",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "PanelSpriteButton::PanelSpriteButton::Activate"
-                  },
-                  "parameters": [
-                    "Resume",
-                    "no",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "PanelSpriteButton::PanelSpriteButton::Activate"
-                  },
-                  "parameters": [
-                    "Menu",
-                    "no",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "PanelSpriteButton::PanelSpriteButton::Activate"
-                  },
-                  "parameters": [
-                    "Quit",
-                    "no",
-                    ""
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "PanelSpriteButton::PanelSpriteButton::IsClicked"
-                  },
-                  "parameters": [
-                    "Quit",
-                    ""
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "SetFullScreen"
-                  },
-                  "parameters": [
-                    "",
-                    "",
-                    "no"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Quit"
-                  },
-                  "parameters": [
-                    ""
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "PanelSpriteButton::PanelSpriteButton::IsClicked"
-                  },
-                  "parameters": [
-                    "Menu",
-                    ""
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "Scene"
-                  },
-                  "parameters": [
-                    "",
-                    "\"Main Menu\"",
-                    ""
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "PanelSpriteButton::PanelSpriteButton::IsClicked"
-                  },
-                  "parameters": [
-                    "Restart",
-                    ""
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "Scene"
-                  },
-                  "parameters": [
-                    "",
-                    "\"Sekolah\"",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "SetNumberVariable"
-                  },
-                  "parameters": [
-                    "Score",
-                    "",
-                    "0"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "SetNumberVariable"
-                  },
-                  "parameters": [
-                    "OOP_Score",
-                    "",
-                    "0"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "ButtonStates::ButtonFSM::IsHovered"
-                  },
-                  "parameters": [
-                    "Pause",
-                    "ButtonFSM",
-                    ""
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "EffectCapability::EffectBehavior::EnableEffect"
-                  },
-                  "parameters": [
-                    "Pause",
-                    "Effect",
-                    "\"Effect\"",
-                    "yes"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "inverted": true,
-                    "value": "ButtonStates::ButtonFSM::IsHovered"
-                  },
-                  "parameters": [
-                    "Pause",
-                    "ButtonFSM",
-                    ""
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "EffectCapability::EffectBehavior::EnableEffect"
-                  },
-                  "parameters": [
-                    "Pause",
-                    "Effect",
-                    "\"Effect\"",
-                    "no"
-                  ]
-                }
+              "type": {
+                "value": "DepartScene"
+              },
+              "parameters": [
+                ""
               ]
             }
           ],
-          "parameters": []
+          "actions": [
+            {
+              "type": {
+                "value": "PlayMusic"
+              },
+              "parameters": [
+                "",
+                "Free Backsound Jawa - Happy Javanese Backsound.mp3",
+                "",
+                "25",
+                ""
+              ]
+            }
+          ]
         }
       ],
       "layers": [
@@ -9632,7 +8982,7 @@
           "isLocked": false,
           "name": "Pause",
           "renderingType": "",
-          "visibility": false,
+          "visibility": true,
           "cameras": [],
           "effects": [
             {
@@ -9805,7 +9155,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.2467258695740679,
+        "zoomFactor": 0.4789341884535348,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -10339,6 +9689,22 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "NewSprite4",
+          "persistentUuid": "89bab0c7-f768-49b5-8001-20f02fd91af4",
+          "width": 0,
+          "x": 1067,
+          "y": 563,
+          "zOrder": 52,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
         }
       ],
       "objects": [
@@ -10350,7 +9716,14 @@
           "updateIfNotVisible": false,
           "variables": [],
           "effects": [],
-          "behaviors": [],
+          "behaviors": [
+            {
+              "name": "LinearMovement",
+              "type": "LinearMovement::LinearMovement",
+              "SpeedX": 0,
+              "SpeedY": 0
+            }
+          ],
           "animations": [
             {
               "name": "Idle",
@@ -11048,6 +10421,18 @@
               "Index": 2.0247e-320
             }
           ],
+          "behaviors": [
+            {
+              "name": "ButtonFSM",
+              "type": "ButtonStates::ButtonFSM",
+              "ShouldCheckHovering": true,
+              "State": "Idle",
+              "TouchId": 0,
+              "TouchIsInside": false,
+              "MouseIsInside": false,
+              "Index": 2.0247e-320
+            }
+          ],
           "animations": [
             {
               "name": "pause",
@@ -11703,6 +11088,74 @@
           "variables": [],
           "effects": [],
           "behaviors": []
+        },
+        {
+          "adaptCollisionMaskAutomatically": false,
+          "assetStoreId": "",
+          "name": "NewSprite4",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "Platform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
+              "yGrabOffset": 0
+            }
+          ],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\NewPanelSprite3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 23.5
+                          },
+                          {
+                            "x": 32,
+                            "y": 23.5
+                          },
+                          {
+                            "x": 32,
+                            "y": 32
+                          },
+                          {
+                            "x": 0,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
@@ -11781,6 +11234,9 @@
             "objectName": "NewSprite"
           },
           {
+            "objectName": "NewSprite4"
+          },
+          {
             "objectName": "NewTiledSprite"
           },
           {
@@ -11833,6 +11289,262 @@
               "colorG": 176,
               "colorR": 74,
               "creationTime": 0,
+              "name": "Menu",
+              "source": "",
+              "type": "BuiltinCommonInstructions::Group",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "ButtonStates::ButtonFSM::IsClicked"
+                      },
+                      "parameters": [
+                        "Pause",
+                        "ButtonFSM",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                      },
+                      "parameters": [
+                        "Pause",
+                        "Animation",
+                        "=",
+                        "\"play\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "ShowLayer"
+                      },
+                      "parameters": [
+                        "",
+                        "\"Pause\""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "ButtonStates::ButtonFSM::IsClicked"
+                      },
+                      "parameters": [
+                        "Pause",
+                        "ButtonFSM",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "AnimatableCapability::AnimatableBehavior::Name"
+                      },
+                      "parameters": [
+                        "Pause",
+                        "Animation",
+                        "=",
+                        "\"play\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                      },
+                      "parameters": [
+                        "Pause",
+                        "Animation",
+                        "=",
+                        "\"pause\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "HideLayer"
+                      },
+                      "parameters": [
+                        "",
+                        "\"Pause\""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "LayerVisible"
+                      },
+                      "parameters": [
+                        "",
+                        "\"Pause\""
+                      ]
+                    }
+                  ],
+                  "actions": [],
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "PanelSpriteButton::PanelSpriteButton::IsClicked"
+                          },
+                          "parameters": [
+                            "Resume",
+                            ""
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "HideLayer"
+                          },
+                          "parameters": [
+                            "",
+                            "\"Pause\""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                          },
+                          "parameters": [
+                            "Pause",
+                            "Animation",
+                            "=",
+                            "\"pause\""
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "PanelSpriteButton::PanelSpriteButton::IsClicked"
+                          },
+                          "parameters": [
+                            "Quit",
+                            ""
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "HideLayer"
+                          },
+                          "parameters": [
+                            "",
+                            "\"Pause\""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Quit"
+                          },
+                          "parameters": [
+                            ""
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "PanelSpriteButton::PanelSpriteButton::IsClicked"
+                          },
+                          "parameters": [
+                            "Menu",
+                            ""
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "HideLayer"
+                          },
+                          "parameters": [
+                            "",
+                            "\"Pause\""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Scene"
+                          },
+                          "parameters": [
+                            "",
+                            "\"Main Menu\"",
+                            ""
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "PanelSpriteButton::PanelSpriteButton::IsClicked"
+                          },
+                          "parameters": [
+                            "Restart",
+                            ""
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "Scene"
+                          },
+                          "parameters": [
+                            "",
+                            "\"Monas\"",
+                            ""
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "parameters": []
+            },
+            {
+              "colorB": 228,
+              "colorG": 176,
+              "colorR": 74,
+              "creationTime": 0,
               "name": "Background",
               "source": "",
               "type": "BuiltinCommonInstructions::Group",
@@ -11852,6 +11564,51 @@
                       ]
                     }
                   ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "Distance"
+                      },
+                      "parameters": [
+                        "Player",
+                        "NewSprite4",
+                        "300",
+                        ""
+                      ]
+                    }
+                  ],
+                  "actions": [],
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "KeyFromTextPressed"
+                          },
+                          "parameters": [
+                            "Player",
+                            "\"e\""
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "Scene"
+                          },
+                          "parameters": [
+                            "",
+                            "\"Monas\"",
+                            ""
+                          ]
+                        }
+                      ]
+                    }
+                  ]
                 }
               ],
               "parameters": []
@@ -11860,444 +11617,70 @@
           "parameters": []
         },
         {
-          "colorB": 228,
-          "colorG": 176,
-          "colorR": 74,
-          "creationTime": 0,
-          "folded": true,
-          "name": "Pause_Layer",
-          "source": "",
-          "type": "BuiltinCommonInstructions::Group",
-          "events": [
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
             {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "ButtonStates::ButtonFSM::IsClicked"
-                  },
-                  "parameters": [
-                    "Pause",
-                    "ButtonFSM",
-                    ""
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "ShowLayer"
-                  },
-                  "parameters": [
-                    "",
-                    "\"Pause\""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
-                  },
-                  "parameters": [
-                    "Pause",
-                    "Animation",
-                    "=",
-                    "\"play\""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "ActivateBehavior"
-                  },
-                  "parameters": [
-                    "Player",
-                    "PlatformerObject",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "ChangeTimeScale"
-                  },
-                  "parameters": [
-                    "",
-                    "0"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "PanelSpriteButton::PanelSpriteButton::Activate"
-                  },
-                  "parameters": [
-                    "Quit",
-                    "yes",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "PanelSpriteButton::PanelSpriteButton::Activate"
-                  },
-                  "parameters": [
-                    "Resume",
-                    "yes",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "PanelSpriteButton::PanelSpriteButton::Activate"
-                  },
-                  "parameters": [
-                    "Menu",
-                    "yes",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "PanelSpriteButton::PanelSpriteButton::Activate"
-                  },
-                  "parameters": [
-                    "Restart",
-                    "yes",
-                    ""
-                  ]
-                }
+              "type": {
+                "value": "ClampCamera"
+              },
+              "parameters": [
+                "",
+                "Left_Boundaries.X() + Left_Boundaries.Width()",
+                "Top_Boundaries.Y() + Top_Boundaries.Height()",
+                "Right_Boundaries.X()",
+                "Bottom_Boundaries.Y()",
+                "",
+                ""
               ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
             {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "DepartScene"
-                  },
-                  "parameters": [
-                    ""
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "PanelSpriteButton::PanelSpriteButton::Activate"
-                  },
-                  "parameters": [
-                    "Restart",
-                    "no",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "PanelSpriteButton::PanelSpriteButton::Activate"
-                  },
-                  "parameters": [
-                    "Resume",
-                    "no",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "PanelSpriteButton::PanelSpriteButton::Activate"
-                  },
-                  "parameters": [
-                    "Quit",
-                    "no",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "PanelSpriteButton::PanelSpriteButton::Activate"
-                  },
-                  "parameters": [
-                    "Menu",
-                    "no",
-                    ""
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "PanelSpriteButton::PanelSpriteButton::IsClicked"
-                  },
-                  "parameters": [
-                    "Resume",
-                    ""
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "ShowLayer"
-                  },
-                  "parameters": [
-                    "",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "HideLayer"
-                  },
-                  "parameters": [
-                    "",
-                    "\"Pause\""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "UnPauseTimer"
-                  },
-                  "parameters": [
-                    "",
-                    "\"Timer2\""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
-                  },
-                  "parameters": [
-                    "Pause",
-                    "Animation",
-                    "=",
-                    "\"pause\""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "ActivateBehavior"
-                  },
-                  "parameters": [
-                    "Player",
-                    "PlatformerObject",
-                    "yes"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "ChangeTimeScale"
-                  },
-                  "parameters": [
-                    "",
-                    "1"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "PanelSpriteButton::PanelSpriteButton::Activate"
-                  },
-                  "parameters": [
-                    "Restart",
-                    "no",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "PanelSpriteButton::PanelSpriteButton::Activate"
-                  },
-                  "parameters": [
-                    "Resume",
-                    "no",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "PanelSpriteButton::PanelSpriteButton::Activate"
-                  },
-                  "parameters": [
-                    "Menu",
-                    "no",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "PanelSpriteButton::PanelSpriteButton::Activate"
-                  },
-                  "parameters": [
-                    "Quit",
-                    "no",
-                    ""
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "PanelSpriteButton::PanelSpriteButton::IsClicked"
-                  },
-                  "parameters": [
-                    "Quit",
-                    ""
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "SetFullScreen"
-                  },
-                  "parameters": [
-                    "",
-                    "",
-                    "no"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Quit"
-                  },
-                  "parameters": [
-                    ""
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "PanelSpriteButton::PanelSpriteButton::IsClicked"
-                  },
-                  "parameters": [
-                    "Menu",
-                    ""
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "Scene"
-                  },
-                  "parameters": [
-                    "",
-                    "\"Main Menu\"",
-                    ""
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "PanelSpriteButton::PanelSpriteButton::IsClicked"
-                  },
-                  "parameters": [
-                    "Restart",
-                    ""
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "Scene"
-                  },
-                  "parameters": [
-                    "",
-                    "\"TurunTJ\"",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "SetNumberVariable"
-                  },
-                  "parameters": [
-                    "Score",
-                    "",
-                    "0"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "SetNumberVariable"
-                  },
-                  "parameters": [
-                    "OOP_Score",
-                    "",
-                    "0"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "ButtonStates::ButtonFSM::IsHovered"
-                  },
-                  "parameters": [
-                    "Pause",
-                    "ButtonFSM",
-                    ""
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "EffectCapability::EffectBehavior::EnableEffect"
-                  },
-                  "parameters": [
-                    "Pause",
-                    "Effect",
-                    "\"Effect\"",
-                    "yes"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "inverted": true,
-                    "value": "ButtonStates::ButtonFSM::IsHovered"
-                  },
-                  "parameters": [
-                    "Pause",
-                    "ButtonFSM",
-                    ""
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "EffectCapability::EffectBehavior::EnableEffect"
-                  },
-                  "parameters": [
-                    "Pause",
-                    "Effect",
-                    "\"Effect\"",
-                    "no"
-                  ]
-                }
+              "type": {
+                "value": "DepartScene"
+              },
+              "parameters": [
+                ""
               ]
             }
           ],
-          "parameters": []
+          "actions": [
+            {
+              "type": {
+                "value": "Wait"
+              },
+              "parameters": [
+                "1.1"
+              ]
+            },
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "Transjakarta",
+                "Animation",
+                "=",
+                "\"Walk\""
+              ]
+            },
+            {
+              "type": {
+                "value": "LinearMovement::LinearMovement::SetSpeedX"
+              },
+              "parameters": [
+                "Transjakarta",
+                "LinearMovement",
+                "=",
+                "220",
+                ""
+              ]
+            }
+          ]
         }
       ],
       "layers": [
@@ -12812,6 +12195,10 @@
           "type": "FlippableCapability::FlippableBehavior"
         },
         {
+          "name": "LinearMovement",
+          "type": "LinearMovement::LinearMovement"
+        },
+        {
           "name": "Opacity",
           "type": "OpacityCapability::OpacityBehavior"
         },
@@ -12865,7 +12252,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 0.7370816317994205,
+        "zoomFactor": 0.433577430470248,
         "windowMask": false
       },
       "objectsGroups": [
@@ -13080,8 +12467,8 @@
           "name": "Player",
           "persistentUuid": "b2996c7f-6201-41e6-943d-71c3fed5ccd3",
           "width": 128,
-          "x": 160,
-          "y": 448,
+          "x": 32,
+          "y": 480,
           "zOrder": 93,
           "numberProperties": [],
           "stringProperties": [],
@@ -14111,6 +13498,18 @@
                 "color": "0;0;0"
               },
               "booleanParameters": {}
+            }
+          ],
+          "behaviors": [
+            {
+              "name": "ButtonFSM",
+              "type": "ButtonStates::ButtonFSM",
+              "ShouldCheckHovering": true,
+              "State": "Idle",
+              "TouchId": 0,
+              "TouchIsInside": false,
+              "MouseIsInside": false,
+              "Index": 2.0247e-320
             }
           ],
           "behaviors": [
@@ -15697,6 +15096,263 @@
               "colorG": 176,
               "colorR": 74,
               "creationTime": 0,
+              "name": "Menu",
+              "source": "",
+              "type": "BuiltinCommonInstructions::Group",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "ButtonStates::ButtonFSM::IsClicked"
+                      },
+                      "parameters": [
+                        "Pause",
+                        "ButtonFSM",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                      },
+                      "parameters": [
+                        "Pause",
+                        "Animation",
+                        "=",
+                        "\"play\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "ShowLayer"
+                      },
+                      "parameters": [
+                        "",
+                        "\"Pause\""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "ButtonStates::ButtonFSM::IsClicked"
+                      },
+                      "parameters": [
+                        "Pause",
+                        "ButtonFSM",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "AnimatableCapability::AnimatableBehavior::Name"
+                      },
+                      "parameters": [
+                        "Pause",
+                        "Animation",
+                        "=",
+                        "\"play\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                      },
+                      "parameters": [
+                        "Pause",
+                        "Animation",
+                        "=",
+                        "\"pause\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "HideLayer"
+                      },
+                      "parameters": [
+                        "",
+                        "\"Pause\""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "LayerVisible"
+                      },
+                      "parameters": [
+                        "",
+                        "\"Pause\""
+                      ]
+                    }
+                  ],
+                  "actions": [],
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "PanelSpriteButton::PanelSpriteButton::IsClicked"
+                          },
+                          "parameters": [
+                            "Resume",
+                            ""
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "HideLayer"
+                          },
+                          "parameters": [
+                            "",
+                            "\"Pause\""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                          },
+                          "parameters": [
+                            "Pause",
+                            "Animation",
+                            "=",
+                            "\"pause\""
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "PanelSpriteButton::PanelSpriteButton::IsClicked"
+                          },
+                          "parameters": [
+                            "Quit",
+                            ""
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "HideLayer"
+                          },
+                          "parameters": [
+                            "",
+                            "\"Pause\""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Quit"
+                          },
+                          "parameters": [
+                            ""
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "PanelSpriteButton::PanelSpriteButton::IsClicked"
+                          },
+                          "parameters": [
+                            "Menu",
+                            ""
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "HideLayer"
+                          },
+                          "parameters": [
+                            "",
+                            "\"Pause\""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Scene"
+                          },
+                          "parameters": [
+                            "",
+                            "\"Main Menu\"",
+                            ""
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "PanelSpriteButton::PanelSpriteButton::IsClicked"
+                          },
+                          "parameters": [
+                            "Restart",
+                            ""
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "Scene"
+                          },
+                          "parameters": [
+                            "",
+                            "\"Monas\"",
+                            ""
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "parameters": []
+            },
+            {
+              "colorB": 228,
+              "colorG": 176,
+              "colorR": 74,
+              "creationTime": 0,
+              "folded": true,
               "name": "Background",
               "source": "",
               "type": "BuiltinCommonInstructions::Group",
@@ -16305,6 +15961,38 @@
               ]
             }
           ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "DepartScene"
+              },
+              "parameters": [
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PlayMusic"
+              },
+              "parameters": [
+                "",
+                "RILEKSASI - Instumen Musik Lagu Daerah BETAWI 6 No Copyright.mp3",
+                "",
+                "20",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": []
         }
       ],
       "layers": [
