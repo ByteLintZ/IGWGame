@@ -1913,7 +1913,13 @@
     "folderName": "__ROOT"
   },
   "objectsGroups": [],
-  "variables": [],
+  "variables": [
+    {
+      "name": "Genders",
+      "type": "boolean",
+      "value": true
+    }
+  ],
   "layouts": [
     {
       "b": 209,
@@ -3361,7 +3367,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 0.281725993207957,
+        "zoomFactor": 0.4194339782759079,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -5201,6 +5207,11 @@
             }
           ],
           "parameters": []
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": []
         }
       ],
       "layers": [
@@ -5332,7 +5343,13 @@
         "windowMask": false
       },
       "objectsGroups": [],
-      "variables": [],
+      "variables": [
+        {
+          "name": "Gender",
+          "type": "boolean",
+          "value": true
+        }
+      ],
       "instances": [
         {
           "angle": 0,
@@ -8554,6 +8571,7 @@
           "colorG": 110,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "Zones",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -14060,7 +14078,7 @@
                 "",
                 "RILEKSASI - Instumen Musik BETAWI #6  No Copyright.mp3",
                 "yes",
-                "",
+                "20",
                 ""
               ]
             }
@@ -17081,10 +17099,10 @@
           "effects": [],
           "behaviors": [
             {
-              "canBeGrabbed": true,
               "name": "Platform",
-              "platformType": "NormalPlatform",
               "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
               "yGrabOffset": 0
             }
           ],
